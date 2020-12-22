@@ -1,0 +1,3 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	q_HRFAQ	13464	44.20492	298	1	26.82058
+ 	__ALL__	13464	44.20492	298	1	26.82058

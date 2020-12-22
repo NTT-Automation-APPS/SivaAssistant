@@ -1,0 +1,29 @@
+{
+  "authoringRegion": "westus",
+  "culture": "en-us",
+  "hierarchical": true,
+  "useAllTrainingData": true,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "q_HRFAQ",
+      "includePrompts": true,
+      "kbId": "da58d845-d580-4a80-8878-ac40b448d1d2",
+      "subscriptionKey": "71ed7782e741471884452e6187336c52",
+      "type": "qna",
+      "name": "SivaHRFAQTest",
+      "id": "1"
+    }
+  ],
+  "serviceIds": [
+    "1"
+  ],
+  "appId": "a4666723-5997-4729-8563-151d505a70d5",
+  "authoringKey": "eda4f2366636468cad1de0e91029022a",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "Dispatch_Test_12-22"
+}

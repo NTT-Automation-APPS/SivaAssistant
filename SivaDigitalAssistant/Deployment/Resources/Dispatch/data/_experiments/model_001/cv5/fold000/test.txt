@@ -1,0 +1,2694 @@
+Label	Weight	Text
+q_HRFAQ	1	I need a resource for my open position. What do I need to do
+q_HRFAQ	1	Fastest way to update my direct deposit in our sharepoint website
+q_HRFAQ	1	Some things are hidden but might still be a problem for you in the future
+q_HRFAQ	1	It says they're on sale
+q_HRFAQ	1	I do not want to add any vehicles to my policy
+q_HRFAQ	1	Same results. If it makes a difference. It 0.00 where current amount is due and the other payment options
+q_HRFAQ	1	Who directed the first Woody Woodpecker cartoon
+q_HRFAQ	1	Additional compensation opportunities at the company
+q_HRFAQ	1	The exterior is only half of the story
+q_HRFAQ	1	I haven't received my overtime. Let me know the steps.
+q_HRFAQ	1	What radio, TV and movie character did Jackie Gleason and William Bendix play
+q_HRFAQ	1	Details about the process required to update my employee role in navigator
+q_HRFAQ	1	Its going to be a problem when my water bill comes
+q_HRFAQ	1	I called to tell you I have good news
+q_HRFAQ	1	The gym is open 247 but the stations are open from 7 am
+q_HRFAQ	1	How much electricity does the brain need to work
+q_HRFAQ	1	kids are learning
+q_HRFAQ	1	No, I believe that is all
+q_HRFAQ	1	when your wife has her baby is she going to stay home
+q_HRFAQ	1	I will set your accounts up right now
+q_HRFAQ	1	how to raise a resource requst
+q_HRFAQ	1	Income tax deductions for this month is on higher side, please explain.9
+q_HRFAQ	1	I hate to call you this late at night but could you possibly help me get to the emergency room
+q_HRFAQ	1	who knows about travel and expense
+q_HRFAQ	1	do you have kids you take to movies
+q_HRFAQ	1	Sure buddy hop in the back
+q_HRFAQ	1	Men singers dont have to look good
+q_HRFAQ	1	then you think it's Reagan and Bush have done this
+q_HRFAQ	1	How to open a Bank account
+q_HRFAQ	1	backfill is something that i need to hire as soon as possible so how can i create a resource request
+q_HRFAQ	1	What plant has the largest seed
+q_HRFAQ	1	I apologize but I didnt realize that I did that
+q_HRFAQ	1	is the service tag iD the same as the asset ID
+q_HRFAQ	1	After declaring 'Flexible Compensation Package (FCP)' I haven't receive any confirmation email. Please do the needful
+q_HRFAQ	1	Could you let me know how many PTO days that I have left
+q_HRFAQ	1	Just tell me how to change a reportees work schedule so they can book time off
+q_HRFAQ	1	All ground transportation leaves from the island as you walk out the arrivals gate
+q_HRFAQ	1	I can give you Friday would you prefer ten or eleven
+q_HRFAQ	1	I would like my margarita with no salt thank you
+q_HRFAQ	1	Sadly there Isnt much we can do
+q_HRFAQ	1	It has about 140,000 people
+q_HRFAQ	1	one - hour
+q_HRFAQ	1	That's $ 2,500 and $ 1,000 deposit
+q_HRFAQ	1	it was my pleasure
+q_HRFAQ	1	Do they survive longer if you plant them in the winter time
+q_HRFAQ	1	it's really been funny because we have been you are own contractors kind of with this car
+q_HRFAQ	1	Now, I'm headed to work a 10 hour shift
+q_HRFAQ	1	Can you help me with rate codes
+q_HRFAQ	1	Sir Its difficult to understand you
+q_HRFAQ	1	i don't want my bill,i want to cancel my insurance
+q_HRFAQ	1	What explorers followed Columbus to the Americas
+q_HRFAQ	1	I only use it on soft food maybe once a week
+q_HRFAQ	1	I 've actually been pretty good
+q_HRFAQ	1	Ill like it better once I finish my GE
+q_HRFAQ	1	I 've gotten six, I think
+q_HRFAQ	1	I think they re in the medicine cabinet
+q_HRFAQ	1	How can i go about requisitioning some custom business cards
+q_HRFAQ	1	new hires have to have blue prism on their machines, can you help me submit this request
+q_HRFAQ	1	Sounds scary
+q_HRFAQ	1	Take my VISA
+q_HRFAQ	1	Occasionally I smoke from a pipe, does that kind of smoking exclude me from the medical benefits of non-smokers
+q_HRFAQ	1	I need to hire someone for my client. How do I do that
+q_HRFAQ	1	What is the process of Domestic transf
+q_HRFAQ	1	What did Martin Luther post on the church door at Wittenberg
+q_HRFAQ	1	Have to correct my work schedule as it is incorrect. Can you guide me for the steps to do that
+q_HRFAQ	1	Who all are eligible to raise a resource request
+q_HRFAQ	1	Who created the monster in Mary Shelley's novel Frankenstein
+q_HRFAQ	1	from about 4 AM through 3 PM
+q_HRFAQ	1	But it's going to cost you $ 2 per key
+q_HRFAQ	1	I need Business Card since I am travelling onsite. Please do the needful
+q_HRFAQ	1	I didn't ask for my quote id
+q_HRFAQ	1	Where is Procter & Gamble based in the U.S
+q_HRFAQ	1	The payments are quite a bit higher for the PPO but you can go anywhere you like
+q_HRFAQ	1	whats going on with domestic transfers
+q_HRFAQ	1	Details regarding referral rewards relating to potential candidates for hiring positions within the company
+q_HRFAQ	1	I still have my job thank goodness
+q_HRFAQ	1	Hello, I was wondering if I could talk with the apartment manager
+q_HRFAQ	1	How does an abacus work
+q_HRFAQ	1	Add me to the list please
+q_HRFAQ	1	What vowel do all Esperanto nouns end in
+q_HRFAQ	1	Before you move in of course you have to pay some fees
+q_HRFAQ	1	Overtime issue request
+q_HRFAQ	1	My family just moved to a new house, how can i update my home address in navigator
+q_HRFAQ	1	Can you do direct report transfers
+q_HRFAQ	1	I'm only working 30 hours a week. What do I need to do
+q_HRFAQ	1	I'll help you with that
+q_HRFAQ	1	brb
+q_HRFAQ	1	I need a verification letter to be issued for a loan/mortgage/immigration.
+q_HRFAQ	1	Im NOT trying to remove a driver from my policy
+q_HRFAQ	1	Country transfer RR steps to be executed for a smooth process
+q_HRFAQ	1	how do i update my workschedule
+q_HRFAQ	1	aug
+q_HRFAQ	1	I just checked my work schedule and it seems incorrect to me
+q_HRFAQ	1	jake is my friend that wants to apply to NTT Data, can i get money for bringing him on
+q_HRFAQ	1	issue relating to my OT approval
+q_HRFAQ	1	I don't own a baseball
+q_HRFAQ	1	How to request for changing the job title in navigator as my job title has updated to a different one
+q_HRFAQ	1	Timesheet does not show my approved overtime, is something wrong
+q_HRFAQ	1	run the uninstaller for notepad++, it is giving me a lot of issues
+q_HRFAQ	1	Its a great workout
+q_HRFAQ	1	Our 30-year mortgage rate is 2.5 % right now
+q_HRFAQ	1	Ill check for you
+q_HRFAQ	1	Quickly want to update my details regarding bank account specifics because i'm broke, please help
+q_HRFAQ	1	Who are the top 10 richest people in the world
+q_HRFAQ	1	Policy regarding tobacco usage
+q_HRFAQ	1	Next time, I am going to save up my money and go with you
+q_HRFAQ	1	The employee is transferring  to EMEA (United Kingdom/ UAE/ Africa). What process needs to be followed
+q_HRFAQ	1	Thanks, Joe
+q_HRFAQ	1	How much Coca Cola is drunk in one day in the world
+q_HRFAQ	1	Dont worry
+q_HRFAQ	1	thats everything
+q_HRFAQ	1	For each time you overdraft you have to pay 25
+q_HRFAQ	1	I am so excited to be voting
+q_HRFAQ	1	Which is the most-used computer program
+q_HRFAQ	1	About 90 of us World War II veterans got on the plane at 8 am
+q_HRFAQ	1	Mary, please let me get the two of you something to drink
+q_HRFAQ	1	Happy anniversary!
+q_HRFAQ	1	Their appointment is at eleven o'clock in the morning
+q_HRFAQ	1	Navigator is not allowing me to remove my last name. Please guide.
+q_HRFAQ	1	how do i get business cards
+q_HRFAQ	1	how to change my name in navigator
+q_HRFAQ	1	Wah, wah, wah!
+q_HRFAQ	1	What Type of Health Plans does NTT DATA Services offer
+q_HRFAQ	1	Please tell me your problem
+q_HRFAQ	1	are you talking about the elected people
+q_HRFAQ	1	lets order the missing items from someone else just to be sure
+q_HRFAQ	1	I finished off everything
+q_HRFAQ	1	can I submit a recommendation for a new applicant and get a bonus
+q_HRFAQ	1	I have no idea
+q_HRFAQ	1	I think you'll like it
+q_HRFAQ	1	I don't think I ever mentioned that. Instead I want to add my daughter to the policy
+q_HRFAQ	1	where is the IT service desk
+q_HRFAQ	1	Its just everybody has their own taste
+q_HRFAQ	1	I 'm with you
+q_HRFAQ	1	What is the name of the president of Garmat U.S.A
+q_HRFAQ	1	What Indian tribe is F Troop perpetually doing battle with
+q_HRFAQ	1	My retirement fund
+q_HRFAQ	1	As you wish, sir
+q_HRFAQ	1	Even after I submitted relevant documents and raised a request to change my name, it has not yet happened. Please help
+q_HRFAQ	1	I am in the Goshen Parkway office and have a PBX migration issue
+q_HRFAQ	1	are you from Texas
+q_HRFAQ	1	It always smells so fresh after it rains
+q_HRFAQ	1	You usually are good about turning it in what happened
+q_HRFAQ	1	I meet people at parties and when Im with my friends
+q_HRFAQ	1	30 - 60
+q_HRFAQ	1	The more money you made the more you will earn on unemployment
+q_HRFAQ	1	i have no clue how to find my host name, can't you just do it
+q_HRFAQ	1	Who followed Caesar
+q_HRFAQ	1	I ran a red light
+q_HRFAQ	1	Regarding the leave balance information as I am not able to access it at present
+q_HRFAQ	1	I dont want to find my quote ID because I dont want a quote
+q_HRFAQ	1	between 12 and 12 - and - a - half stone
+q_HRFAQ	1	hello, I just got a policy on aug 4 but having trouble
+q_HRFAQ	1	change hlm request
+q_HRFAQ	1	Is it causing a flood in your apartment
+q_HRFAQ	1	1974
+q_HRFAQ	1	What do you need to do to marry someone in jail
+q_HRFAQ	1	How do I get rid of this cold
+q_HRFAQ	1	I have a really bad pain in my tooth
+q_HRFAQ	1	I want you to figure out what is missing
+q_HRFAQ	1	Nothing came in the mail telling me my polling place
+q_HRFAQ	1	how to get letter of verification
+q_HRFAQ	1	What type of performer is Ileana Cotrubas
+q_HRFAQ	1	Where can I find when can i expect to be paid in my region of the world
+q_HRFAQ	1	Country transfer resource request applying criteria
+q_HRFAQ	1	i pulled an extra night shift, why havent i received my overtime allotment yet
+q_HRFAQ	1	Its a tradition that women cover their heads while in the temple
+q_HRFAQ	1	It was a pleasure to meet you
+q_HRFAQ	1	At certain hours the swim stations are very crowded
+q_HRFAQ	1	Is smoking allowed in office premises
+q_HRFAQ	1	dont do that
+q_HRFAQ	1	please share the payroll calendar
+q_HRFAQ	1	Don't register my account or i'll be pissed
+q_HRFAQ	1	Why is Chicago named Chicago
+q_HRFAQ	1	Where can I find full written draft of CTBT
+q_HRFAQ	1	Help me with my policy
+q_HRFAQ	1	We cant afford this house
+q_HRFAQ	1	Who played Maria in the film West Side Story
+q_HRFAQ	1	Updating contact info in company records
+q_HRFAQ	1	please help me create a resource request
+q_HRFAQ	1	Would I get the standard cover of INR 350,000 for family cover funded by NTT DATA even if I opt for the voluntary top up options
+q_HRFAQ	1	Paid less then my actual take home, please explain
+q_HRFAQ	1	If it is not more than fourteen days past its due date then you may still mail it in
+q_HRFAQ	1	Shogun Restaurant
+q_HRFAQ	1	Many times there are special services available to certain groups like Women at Work or job help for non-English speakers
+q_HRFAQ	1	i'm not looking for any ID
+q_HRFAQ	1	What does an echidna look like
+q_HRFAQ	1	I need two calls, one at 7 and another at 7:15
+q_HRFAQ	1	Sort of but I could know more I guess
+q_HRFAQ	1	Can I ask for an approval to be eligible for overtime even if I am a job grade 8 employee
+q_HRFAQ	1	If I wanted to could I have it mailed to me
+q_HRFAQ	1	Oh really
+q_HRFAQ	1	What do bicornate animals have two of
+q_HRFAQ	1	Okay, that won't be very crowded
+q_HRFAQ	1	They buy their materials from Russia
+q_HRFAQ	1	Good-bye, and thank you for shopping here
+q_HRFAQ	1	I had changed the bank account details this week, but not received salary to new account. Please clarify.
+q_HRFAQ	1	Here I am
+q_HRFAQ	1	She said that nothing is more important to me than money
+q_HRFAQ	1	do you have to do all that yourself
+q_HRFAQ	1	I may get some fruit
+q_HRFAQ	1	My OT is not paid.
+q_HRFAQ	1	It's taking you forever to do my hair
+q_HRFAQ	1	What is the weather like on the moon
+q_HRFAQ	1	What game is Garry Kasparov really good at
+q_HRFAQ	1	Now theres still a whole New York day ahead of me
+q_HRFAQ	1	In what Olympic Games did Nadia Comaneci become popular
+q_HRFAQ	1	Their offer is a good one
+q_HRFAQ	1	i came into the office and submitted my overtime hours but did not receive my owed money for that
+q_HRFAQ	1	I am going back to my maiden name, can i submit a request to fix it on the employee records
+q_HRFAQ	1	Im glad I could clarify things for you
+q_HRFAQ	1	I was nt all that impressed by the food
+q_HRFAQ	1	I 'm sorry, but you just have to take your chances
+q_HRFAQ	1	If you go to a flea market you can find all kinds of things
+q_HRFAQ	1	client wants me to hire new employee for my company
+q_HRFAQ	1	Because I watch the other players
+q_HRFAQ	1	It's a way for the country to make money with the international trade
+q_HRFAQ	1	The automobile club can provide you with an application
+q_HRFAQ	1	Im not here to add a driver
+q_HRFAQ	1	Please do the needful to submit my travel expense report in concur
+q_HRFAQ	1	Buy this product, i need it installed on my machine fast
+q_HRFAQ	1	on Monday evening
+q_HRFAQ	1	What does a phobophobe fear
+q_HRFAQ	1	I see that my work schedule is incorrect. Certain modifications are required to be made
+q_HRFAQ	1	To what does Microsoft's Windows 3 owe its success
+q_HRFAQ	1	Did he sign it
+q_HRFAQ	1	What is the West Virginia state animal
+q_HRFAQ	1	I have nt gone to get it yet
+q_HRFAQ	1	How does psorisis disappear
+q_HRFAQ	1	Ive heard that disposals need to be run frequently
+q_HRFAQ	1	My policy status isnt something I want to see
+q_HRFAQ	1	Referall bonus is not credited though I have referred the candidate 3 months back. Please advice.
+q_HRFAQ	1	overtime issues
+q_HRFAQ	1	the battery in my car is dead
+q_HRFAQ	1	I am trying to change my direct deposit information where my checks are sent, can you provide the correct location for that on navigator
+q_HRFAQ	1	On site with a client, secure a project, need to open a lot of RRs
+q_HRFAQ	1	An HMO is a little cheaper but you can only choose certain doctors
+q_HRFAQ	1	What fastener did Whitcomb Judson patent in 1893
+q_HRFAQ	1	Who is Westview High's band director in Funky Winkerbean
+q_HRFAQ	1	I need to create a work of art
+q_HRFAQ	1	Ill have to write you a ticket
+q_HRFAQ	1	What island group is Guadalcanal a part of
+q_HRFAQ	1	i'm not trying to change my payment choices
+q_HRFAQ	1	We have all kinds of movie channel packages
+q_HRFAQ	1	Where can I find information on the Narragansett Indians and other tribes in Rhode Island
+q_HRFAQ	1	Due to personal commitments my team member is looking to get early release from the Organization. Project do not have any impact since all deliverables are provided and she is currently on bench and no work.  Please change her last working day
+q_HRFAQ	1	Okay, thank you very much for your help
+q_HRFAQ	1	Of course I do
+q_HRFAQ	1	new job title
+q_HRFAQ	1	What TV quiz show left the air in 1975 to the tune of Vera Lynn's We 'll Meet Again
+q_HRFAQ	1	What are all the deductions from my paycheck
+q_HRFAQ	1	But my husband does
+q_HRFAQ	1	What do the names Neil, Mary, and Anthony mean
+q_HRFAQ	1	A subordinate of mine says their work schedule is not what it should be, what do i need to do to fix it for him
+q_HRFAQ	1	What credit card features a centurion on its face
+q_HRFAQ	1	What island is home to statues called Mauis
+q_HRFAQ	1	I may just get some chips
+q_HRFAQ	1	Where can I find a website that gives comparisons of good prices
+q_HRFAQ	1	Come in on Friday at 11:00
+q_HRFAQ	1	what is the referral amount
+q_HRFAQ	1	My manager has changed. How do I get it updated
+q_HRFAQ	1	Where are good science sites on the Internet
+q_HRFAQ	1	bonus for submitting a coworker referral
+q_HRFAQ	1	Ill be checking out of the hotel in about 30 minutes
+q_HRFAQ	1	How do I change my 401(k) contribution or deferral amount, and how often can I adjust my deferrals
+q_HRFAQ	1	When will my job title change
+q_HRFAQ	1	which day is cut off in Sep, 2019
+q_HRFAQ	1	Im full
+q_HRFAQ	1	Now lets discuss your 401k
+q_HRFAQ	1	Our school has a link on its website for apartments
+q_HRFAQ	1	Who established a Viking colony in Greenland about 985
+q_HRFAQ	1	What is STARs
+q_HRFAQ	1	Ill make the call and contact you when it gets in
+q_HRFAQ	1	Whats left in my PTO account
+q_HRFAQ	1	May I see some identification sir
+q_HRFAQ	1	I didnt realize that it was so late
+q_HRFAQ	1	What is travel air-fare policy for deputed employee
+q_HRFAQ	1	change hard line manager
+q_HRFAQ	1	I 'm gaining weight
+q_HRFAQ	1	My honor
+q_HRFAQ	1	How much PTO is left on my account
+q_HRFAQ	1	Can you tell me how many teaspoons make up a tablespoon
+q_HRFAQ	1	Who is the prime minister of Australia
+q_HRFAQ	1	i think the internet is dead
+q_HRFAQ	1	can i ask a question about the policy i have
+q_HRFAQ	1	are you able to tell me whats going on with my current ticket
+q_HRFAQ	1	it really was
+q_HRFAQ	1	820
+q_HRFAQ	1	What was the backup singing group for Roy Rogers
+q_HRFAQ	1	do you have any advice on how to create a password
+q_HRFAQ	1	It started yesterday
+q_HRFAQ	1	NTT in the News
+q_HRFAQ	1	It's a lot nicer, and I really like it better
+q_HRFAQ	1	I am unsatisified with my salary
+q_HRFAQ	1	Sure, what kind do you like
+q_HRFAQ	1	I have moved and need to reflect that move on the personal section of my online profile
+q_HRFAQ	1	Trainees are eligible for Payment of Bonus Act (POBA)
+q_HRFAQ	1	just checked navigator but my contact info isnt right, who do i need to contact or reach out to in order to get that info corrected
+q_HRFAQ	1	Please repeat that
+q_HRFAQ	1	Can you fill me in on the T&E policy details
+q_HRFAQ	1	What body of water does the Yukon River empty into
+q_HRFAQ	1	Who founded the Unification Church
+q_HRFAQ	1	Click on whichever option you want, and you're done
+q_HRFAQ	1	I only had nine little problems here
+q_HRFAQ	1	I'd rather not find the quote ID
+q_HRFAQ	1	Just sign here, please
+q_HRFAQ	1	I follow that
+q_HRFAQ	1	What are some of Australia's native flora
+q_HRFAQ	1	i have an employee who is dead, what should i do
+q_HRFAQ	1	Don't show me my policy status ever again or ask me about it
+q_HRFAQ	1	Please let me know the procedure to update address.
+q_HRFAQ	1	I have an interview tomorrow, so I hope I can learn everything quickly
+q_HRFAQ	1	dunno
+q_HRFAQ	1	Me too, but he doesn't seem worthy enough to be in such a position
+q_HRFAQ	1	How's everything going
+q_HRFAQ	1	I dont need to see my schedule
+q_HRFAQ	1	my req number is 19402130, what is the current status
+q_HRFAQ	1	How do I contact my dental provider
+q_HRFAQ	1	Not to worry
+q_HRFAQ	1	thats different for me
+q_HRFAQ	1	Does your girlfriend ever make you angry
+q_HRFAQ	1	Give me a minute
+q_HRFAQ	1	OK then, I will make the arrangements for them to attend
+q_HRFAQ	1	Devi, do you have any preference for where you would like to go for dinner for your birthday
+q_HRFAQ	1	713-463-8626
+q_HRFAQ	1	Run 1234
+q_HRFAQ	1	I will apply for the spring semester
+q_HRFAQ	1	How much energy is released when oxygen and hydrogen mix
+q_HRFAQ	1	It needs to come back by noon of the third day
+q_HRFAQ	1	on October 16 - 17
+q_HRFAQ	1	Maybe I 'm confusing this place with my last place
+q_HRFAQ	1	display my ticket status
+q_HRFAQ	1	I pray that he actually makes things better in this country
+q_HRFAQ	1	My hard line manager is not currently able to update my employee role within the company, is he doing something wrong
+q_HRFAQ	1	I would like to refer someone to work at NTT
+q_HRFAQ	1	Who can share the annual CTC Report for team
+q_HRFAQ	1	What country has the most time zones, with 11
+q_HRFAQ	1	I need some to keep as souvenirs
+q_HRFAQ	1	between the afternoon and the evening
+q_HRFAQ	1	Ciao
+q_HRFAQ	1	The next game I will definitely be there
+q_HRFAQ	1	I need a salary hike
+q_HRFAQ	1	What country did the Allies invade in World War II's Operation Avalanche
+q_HRFAQ	1	just now
+q_HRFAQ	1	Potentially need to move a couple of employees under me to a new manager
+q_HRFAQ	1	I can't believe Obama is our President
+q_HRFAQ	1	Do you win or lose whenever you play
+q_HRFAQ	1	I think you are right
+q_HRFAQ	1	Mr Wallace this is the Xenon Company calling to speak with you
+q_HRFAQ	1	dda number has changed because of my bank
+q_HRFAQ	1	She asked me how she could return the favor, so I asked her out
+q_HRFAQ	1	i have a new bank account, where should i send the paper
+q_HRFAQ	1	How many days personal days do I have available
+q_HRFAQ	1	jub title has become something more senior, can we put in this change
+q_HRFAQ	1	Missoula
+q_HRFAQ	1	there's probably thousands of holes in that theory
+q_HRFAQ	1	I 'm so happy that you found what you wanted
+q_HRFAQ	1	If my manager didn't approve my Replicon for some reason "she is out of office or sick", will I still receive my payroll for the month
+q_HRFAQ	1	Give me the details on tobacco usage in regards to benefits
+q_HRFAQ	1	Can you please guide me through the steps
+q_HRFAQ	1	Now, is a queen-size bed okay
+q_HRFAQ	1	I can remember that
+q_HRFAQ	1	Is this table okay
+q_HRFAQ	1	What about all wheel drive
+q_HRFAQ	1	change my phone number in company records
+q_HRFAQ	1	Sir, the computers are free to guests, but you do have to pay a nominal printing fee
+q_HRFAQ	1	To clarify it for you, with a PPO you pay more but you get to choose your own doctor
+q_HRFAQ	1	What is a fear of slime
+q_HRFAQ	1	What is is the criteria for salary progression - promotion/increment
+q_HRFAQ	1	What's the most popular four-player game of all time
+q_HRFAQ	1	i want to change my pants
+q_HRFAQ	1	Id rather have a small wedding
+q_HRFAQ	1	What are pre-existing diseases Are they covered in the policy
+q_HRFAQ	1	Which one should we have
+q_HRFAQ	1	Instruction on Certificate of Employment request
+q_HRFAQ	1	I need to send in a copy of my daughters report card I know I simply need to upload a copy to you but I dont know how to upload it to my account
+q_HRFAQ	1	Im not ever going to leave
+q_HRFAQ	1	Hey, did you hear about a car crash on a street close to where I 'm living at
+q_HRFAQ	1	You need to tell me how extra payouts occur
+q_HRFAQ	1	I disagree with them
+q_HRFAQ	1	Can you tell me how many feet long is a baseball pitcher's rubber
+q_HRFAQ	1	The paper quality of the business card i received is of poor quality.
+q_HRFAQ	1	Fine well the job search tools are all here for you to use
+q_HRFAQ	1	As a guest, sir, you pay nothing
+q_HRFAQ	1	What holidays are celebrated in Ireland
+q_HRFAQ	1	my surname isn't correct, where do i go to get it corrected
+q_HRFAQ	1	What's the most popular form of bridge
+q_HRFAQ	1	To be honest, i really don't know
+q_HRFAQ	1	theres nothing else to it
+q_HRFAQ	1	What is the of days of paid time off I have left
+q_HRFAQ	1	First, you need to make some white rice
+q_HRFAQ	1	Details regaridng how many different meals and uber trips i can expense on work trips
+q_HRFAQ	1	Gatorade has a lot of sugar
+q_HRFAQ	1	A large amount of available cash would be a good sign
+q_HRFAQ	1	No I didnt because it was pretty hard
+q_HRFAQ	1	How fast is a 45Mhz processor
+q_HRFAQ	1	Did you use a textured paint
+q_HRFAQ	1	I joined NTT DTA 15th of this month, will I get my salary as per payroll calendar
+q_HRFAQ	1	Does she keep you awake
+q_HRFAQ	1	What is the per-capita income of Colombia, South America,
+q_HRFAQ	1	I know and I will not be paying the 25$ late fee
+q_HRFAQ	1	Hi I am supposed to update my contact details in NTT DATA records. Please help me doing it
+q_HRFAQ	1	Name a product that controls the ripening of apples
+q_HRFAQ	1	What was the 24-disc John Gabel Entertainer the first example of, in 1960
+q_HRFAQ	1	A couple of months ago
+q_HRFAQ	1	It's on the west side of the campus
+q_HRFAQ	1	do i have to call someone to be able to find out what my host name is
+q_HRFAQ	1	Outlets usually give you great deals
+q_HRFAQ	1	And have you decided what to order yet
+q_HRFAQ	1	How many people did the United Nations commit to help restore order and distribute humanitarian relief in Somalia in September 1992
+q_HRFAQ	1	Let's go look at another house
+q_HRFAQ	1	Hey I have to make changes to my name you help me in updating my name in records
+q_HRFAQ	1	You're on
+q_HRFAQ	1	Auf Wiedersehen
+q_HRFAQ	1	I can track your plane online
+q_HRFAQ	1	I don't want to upload a document
+q_HRFAQ	1	New position needs to be filled asap, how do i submit an RR
+q_HRFAQ	1	point value for star awards
+q_HRFAQ	1	That's sad, but have you gone to the movies recently
+q_HRFAQ	1	Now that I have an idea of what you want I can begin my search
+q_HRFAQ	1	Sir, I 'm going to put you through to 911
+q_HRFAQ	1	I didn't want to, so I didn't
+q_HRFAQ	1	Old movies are the best
+q_HRFAQ	1	And that's not going to change anytime soon
+q_HRFAQ	1	Want to get a letter of validation from HR
+q_HRFAQ	1	I don't want that
+q_HRFAQ	1	That's what I 'm here for
+q_HRFAQ	1	I would like to know the NTT DATA Referral Policy
+q_HRFAQ	1	Manual st
+q_HRFAQ	1	Say, are we going to roast some marshmallows today
+q_HRFAQ	1	i want to change my vehicle
+q_HRFAQ	1	do you mind if I ask what it's worth down there
+q_HRFAQ	1	86154
+q_HRFAQ	1	Are you able to help me fix my work schedule, it's not working properly and i can't enter my time into it
+q_HRFAQ	1	what do you mean by assetid
+q_HRFAQ	1	Other premiums paid out by NTT at various points in the year for achievement
+q_HRFAQ	1	I 'm happy that you find this apartment so appealing
+q_HRFAQ	1	can you just grab my service tag, where do i even find that
+q_HRFAQ	1	how can i get my tag id
+q_HRFAQ	1	what is the pay calendar
+q_HRFAQ	1	how doees NTT handle cost of living adjustments
+q_HRFAQ	1	There's something about my policy I'm confused about
+q_HRFAQ	1	How can I ask for an employee declaration
+q_HRFAQ	1	I guess now Ive been out for
+q_HRFAQ	1	I don't want to my payment options are fine dude
+q_HRFAQ	1	Could you repeat that
+q_HRFAQ	1	Update my zip code on the website
+q_HRFAQ	1	I didn't receive my Overtime.
+q_HRFAQ	1	I would like to find out the amount of days I can take off with pay
+q_HRFAQ	1	Funeral leaves policy
+q_HRFAQ	1	When I click on time type, I do not see the one I need to select. For example: I cannot select vacation
+q_HRFAQ	1	Id rather not pay but I have to
+q_HRFAQ	1	My mattress was supposed to be delivered today
+q_HRFAQ	1	Not really
+q_HRFAQ	1	Okay I want you to put the sofa in the living room
+q_HRFAQ	1	I want to know how can I change my status in work from home employee
+q_HRFAQ	1	i dont want to see anything about my payments changed
+q_HRFAQ	1	There are a few spots back there for visitors
+q_HRFAQ	1	Oh, she is very nice
+q_HRFAQ	1	Soda isn't the best thing to drink when you're thirsty
+q_HRFAQ	1	Professor, I 'm concerned about my grades
+q_HRFAQ	1	Please share work from home policy with me
+q_HRFAQ	1	I guess that covers it
+q_HRFAQ	1	What British TV series featured Emma Peel
+q_HRFAQ	1	Now when can I use the stations
+q_HRFAQ	1	How to update my new contact number in profile section of navigator. Will it be changed everywhere
+q_HRFAQ	1	what is the process to claim PF for death employee
+q_HRFAQ	1	Did they have Thing
+q_HRFAQ	1	Now that i am completely onboarded, i want to replace my contact email from my personal email to my NTT email, can you help me with this
+q_HRFAQ	1	who is my HR BP
+q_HRFAQ	1	can i stay at an airBNB when i take my work trip next week to a client site
+q_HRFAQ	1	Just give me your name his name and when he will be coming by
+q_HRFAQ	1	Would that be possible
+q_HRFAQ	1	can i get money if i bring in new people
+q_HRFAQ	1	I can't figure out how to turn them on
+q_HRFAQ	1	Having a regular study routine and following it is very important, right
+q_HRFAQ	1	Hi can you please unlock my nt id
+q_HRFAQ	1	My name has changed. How can I update it in records.
+q_HRFAQ	1	procedure in the case of a death of an employee
+q_HRFAQ	1	How does hair curl
+q_HRFAQ	1	How goes it
+q_HRFAQ	1	What do Japanese school uniforms look like
+q_HRFAQ	1	I am missing overtime from my last paycheck.
+q_HRFAQ	1	What is a synonym for aspartame
+q_HRFAQ	1	I think that gathering that information will be helpful to me
+q_HRFAQ	1	What does BMW stand for
+q_HRFAQ	1	I 'm in a ranch
+q_HRFAQ	1	I am travelling to Singapore this week. How much per Diem will I get
+q_HRFAQ	1	I will I cant wait to see who wins tonight
+q_HRFAQ	1	Oh yes Ive heard of that one
+q_HRFAQ	1	Can you please tell me how many miles of corridors are in The Pentagon
+q_HRFAQ	1	employee title update
+q_HRFAQ	1	She knows that I love her
+q_HRFAQ	1	Is 730 cool with you
+q_HRFAQ	1	Okay, a taxi will arrive in seconds, sir
+q_HRFAQ	1	Absolutely
+q_HRFAQ	1	What is the expense limit for new york
+q_HRFAQ	1	ESL means English as a Second Language
+q_HRFAQ	1	i went on a trip around the world
+q_HRFAQ	1	There's a big red circle around the late fee
+q_HRFAQ	1	How can I withdraw money from my savings fund account
+q_HRFAQ	1	Can you tell me how will I get the overtime for the month of September
+q_HRFAQ	1	how do I claim relocation amount
+q_HRFAQ	1	They added phony charges to our bill
+q_HRFAQ	1	Maybe he ll send us our waiter immediately
+q_HRFAQ	1	Itll just cost you extra
+q_HRFAQ	1	How many vacation days do I have remaining
+q_HRFAQ	1	The late fee is circled in red ink
+q_HRFAQ	1	I kind of feel the same way but they may have just been really shortstaffed tonight
+q_HRFAQ	1	offboarding information
+q_HRFAQ	1	Have nt I asked you to call if you re going to be home late
+q_HRFAQ	1	I went with the Automobile Club
+q_HRFAQ	1	Would you mind telling me how long was the longest hiccup attack
+q_HRFAQ	1	I told her I would nt trade her for any other woman in the world
+q_HRFAQ	1	How is Paraguay for vacations
+q_HRFAQ	1	thats why I use it now
+q_HRFAQ	1	There is a new hire manager that has no direct reports currently but he is going to be leading some members of my team, i need to move those employees
+q_HRFAQ	1	Just drop me an e-mail with the time you 've picked
+q_HRFAQ	1	what is the timeline to process the FST for a death employee
+q_HRFAQ	1	Who are considered as tobacco users
+q_HRFAQ	1	The fee is 25 cents every day
+q_HRFAQ	1	But I dont have cable
+q_HRFAQ	1	Medium should be fine
+q_HRFAQ	1	I can only find PO boxes for the address. So I just put my Auto Financial company name and put n/a on the address field
+q_HRFAQ	1	How to update my new contact number
+q_HRFAQ	1	Is this where I can get a library card issued to me
+q_HRFAQ	1	Travel and Expense policy info
+q_HRFAQ	1	Her mom is a great cook
+q_HRFAQ	1	What exactly is wrong with it
+q_HRFAQ	1	Dont get mad at me please
+q_HRFAQ	1	I hate looking for an apartment
+q_HRFAQ	1	There's an awful lot of negative news
+q_HRFAQ	1	Closed
+q_HRFAQ	1	Though I know not what you are
+q_HRFAQ	1	How much paid or unpaid time off do i have remaining currently
+q_HRFAQ	1	What is my balance for paid time off
+q_HRFAQ	1	what is a tobacco user
+q_HRFAQ	1	Id rather not see my account summary
+q_HRFAQ	1	Again please
+q_HRFAQ	1	What is Rewards & Recognition star points
+q_HRFAQ	1	I am not sure what the asking price for my house should be
+q_HRFAQ	1	The italian artist, Maurizio Pellegrin, is how old
+q_HRFAQ	1	And Id get some more comfortable desks
+q_HRFAQ	1	Need to submit an alteration to my bank account particulars, where can i do that
+q_HRFAQ	1	How big is the largest diamond
+q_HRFAQ	1	Please show me where to change my name
+q_HRFAQ	1	How can i put a subordinate under a new project manager
+q_HRFAQ	1	Global payroll calendar
+q_HRFAQ	1	around 7ish
+q_HRFAQ	1	Sorry, sir, just VISA or MasterCard
+q_HRFAQ	1	what about a voluntary program
+q_HRFAQ	1	Just try to gently slide the key in the deadbolt and turn it to the right
+q_HRFAQ	1	44749-3192
+q_HRFAQ	1	What American sergeant lost both of his hands in combat during World War II and then went on to act in a single movie for which he won two Oscars
+q_HRFAQ	1	what is the right way to change my dda
+q_HRFAQ	1	Even if Its only for a short while
+q_HRFAQ	1	I am not really ready to accept that low of a price
+q_HRFAQ	1	But I only have three more years and Ill retire
+q_HRFAQ	1	I am unable to break-up my total compensation from my payslip.Can you please provide the detailed breakup of the salary compensation
+q_HRFAQ	1	install PuTTY
+q_HRFAQ	1	Please explain what is referral bonus
+q_HRFAQ	1	The government wants me to show proof of work for my h1b visa
+q_HRFAQ	1	I would like for you to not be late for school
+q_HRFAQ	1	I gotta question so where do we start
+q_HRFAQ	1	Is that centrally located
+q_HRFAQ	1	Find me the details relating to the payroll schedule or calendar please
+q_HRFAQ	1	who is our CTO
+q_HRFAQ	1	I need Insurance policy for my parents
+q_HRFAQ	1	How many days of Bereavement Leaves are the Employees in Singapore entitled to
+q_HRFAQ	1	do you like movies a lot
+q_HRFAQ	1	Job title update request in the navigator. Please help me doing it asap
+q_HRFAQ	1	Wrong wrong wrong why wont it let me continue without adding a vehicle
+q_HRFAQ	1	Is gmail better than Outlook
+q_HRFAQ	1	this information is really helpful thank you
+q_HRFAQ	1	do you find it useable
+q_HRFAQ	1	Tatarstan
+q_HRFAQ	1	English was hard to learn
+q_HRFAQ	1	Who was Jane Goodall
+q_HRFAQ	1	I dont need your help
+q_HRFAQ	1	Because of my recent promotion, my employee position name needs to be updated, how can i affect that change within my personal records
+q_HRFAQ	1	Where is Los Vegas
+q_HRFAQ	1	do you kind of think it's a chore
+q_HRFAQ	1	I want to go see a movie
+q_HRFAQ	1	What Morris West novel deals with Russian bishop who becomes Pope
+q_HRFAQ	1	What professional sports league originated the college draft
+q_HRFAQ	1	I wish to print my Business Card, what is the process and policy
+q_HRFAQ	1	No, I still prefer him over the other candidate in the election
+q_HRFAQ	1	I don't want help with any documents
+q_HRFAQ	1	Would you tell me how long was the longest sneezing attack
+q_HRFAQ	1	What does A&W of root beer fame stand for
+q_HRFAQ	1	That car is exactly what I want so I probably should buy it
+q_HRFAQ	1	OK, then
+q_HRFAQ	1	I won't remove a vehicle
+q_HRFAQ	1	My internet is having problems connecting
+q_HRFAQ	1	What's the highest possible bid in Contract Bridge
+q_HRFAQ	1	Where does most of the marijuana entering the United States come from
+q_HRFAQ	1	People are funny
+q_HRFAQ	1	command prompt is open, now what do i need to find the service tag
+q_HRFAQ	1	President Dwight D Eisenhower established the National Aeronautics and Space Administration NASA in 1958 with a distinctly civilian rather than military orientation encouraging peaceful applications in space science
+q_HRFAQ	1	What is the origin of thank you notes
+q_HRFAQ	1	Revision to what i provided as my security identifier details online
+q_HRFAQ	1	My policy, can u answer questions on it
+q_HRFAQ	1	Are you all right
+q_HRFAQ	1	Who killed JFK
+q_HRFAQ	1	I need the furniture moved to my new house
+q_HRFAQ	1	Why am I being paid less than my peers
+q_HRFAQ	1	if someone wants to contact me when i am out of the country, i have a different contact than the one currently listed on navigator, how can i add the new ones
+q_HRFAQ	1	interested in making a change to my clock in clock out hours each and every day, whats the right process to do this
+q_HRFAQ	1	Ill give it back to you in a couple of minutes
+q_HRFAQ	1	Are you still there
+q_HRFAQ	1	Everything you can see will be on sale
+q_HRFAQ	1	Raising a RR for transfer
+q_HRFAQ	1	portland
+q_HRFAQ	1	Can you help me figure out how many sick days I have left
+q_HRFAQ	1	changeHLM
+q_HRFAQ	1	It's a great workout
+q_HRFAQ	1	How do i change my security identifier in company records
+q_HRFAQ	1	Where on the Navigator or NTT site can i download or apply for a verification letter to help with a mortgage
+q_HRFAQ	1	Am I eligible for PAyment of Bonus act
+q_HRFAQ	1	That is correct
+q_HRFAQ	1	Please share report of my expenses
+q_HRFAQ	1	What desert country borders Saudi Arabia, Iraq and the Persian Gulf
+q_HRFAQ	1	Yeah, except today
+q_HRFAQ	1	Who was in Death of a Salesman original movie, not 1985
+q_HRFAQ	1	do you have a garden
+q_HRFAQ	1	If there really was a stop sign I couldnt see it because of the overgrown bushes
+q_HRFAQ	1	Are  temporary hourly employees eligible for sick time
+q_HRFAQ	1	is that supported by all donations to the church and so forth
+q_HRFAQ	1	Im afraid we re going to have to investigate these charges
+q_HRFAQ	1	He is still teaching at Brookhaven
+q_HRFAQ	1	I need you to hurry up
+q_HRFAQ	1	I would like to know my leave balance as of September 20, 2019
+q_HRFAQ	1	Is this the area for departures and arrivals or only departures
+q_HRFAQ	1	Can you tell me how many claws has a lobster called a pistol lost
+q_HRFAQ	1	Spending Power information is displayed to the client in real time, based on the same data displayed in the Account Summaries on MS Online and 3D
+q_HRFAQ	1	I have an inquiry regarding expenses, who can help me
+q_HRFAQ	1	Simply answer the questions put to you
+q_HRFAQ	1	That doesnt surprise me
+q_HRFAQ	1	I can see that you have all of your forms filled out
+q_HRFAQ	1	Walk me through updating my email address in navigator
+q_HRFAQ	1	did the judge hand down sentences
+q_HRFAQ	1	She'll love that
+q_HRFAQ	1	38.7 kilograms
+q_HRFAQ	1	SHE
+q_HRFAQ	1	No I never want to be near a UFO
+q_HRFAQ	1	Questions regarding the travel and expense rules are best directed to what email
+q_HRFAQ	1	I need to install Uipath
+q_HRFAQ	1	did you need a loom
+q_HRFAQ	1	SSN update in company records
+q_HRFAQ	1	I had submitted my travel expense last month, but still not received pay out. Please help.
+q_HRFAQ	1	What about going to the movies on Friday night
+q_HRFAQ	1	There was some deduction done from my July 2019 salary. Please let me know who can let me know the reason for deduction.
+q_HRFAQ	1	Of course, pick up the receiver, hit a button and listen for a tone
+q_HRFAQ	1	On what avenue is the original Saks department store located
+q_HRFAQ	1	And often through my curtains peep
+q_HRFAQ	1	A good real estate lawyer might cost $ 400 an hour
+q_HRFAQ	1	Is there anything that I can do to the bathrooms and kitchen that wouldn't cost too much
+q_HRFAQ	1	No, but I did put on a few pounds
+q_HRFAQ	1	I don't have money for a transfer
+q_HRFAQ	1	I'd prefer to just not see my documents sir
+q_HRFAQ	1	Ways to update ID info
+q_HRFAQ	1	give me the insurance informaiton
+q_HRFAQ	1	I might be able to find you extra servings of vegetables, however
+q_HRFAQ	1	I am out of compliance because of a software i have on my laptop, can you uninstall  it please
+q_HRFAQ	1	I think most jokes are about women
+q_HRFAQ	1	Holy cow
+q_HRFAQ	1	Why does tuberculosis afflict people
+q_HRFAQ	1	Death of Employee
+q_HRFAQ	1	Country transfer RR needs to be opened from some of my resources
+q_HRFAQ	1	The cat doesn't care about anything
+q_HRFAQ	1	I don't want to my account summary visual to me or anybody else!
+q_HRFAQ	1	Bye bye
+q_HRFAQ	1	my workschedule needs to be uypdated
+q_HRFAQ	1	It is a new restaurant
+q_HRFAQ	1	The bigger the better, I think
+q_HRFAQ	1	I 'm completely lost
+q_HRFAQ	1	I wont go any lower than 1050
+q_HRFAQ	1	As you know however the day in New York has hardly begun
+q_HRFAQ	1	What stringed weapon fires a bolt
+q_HRFAQ	1	12 month
+q_HRFAQ	1	If it feels soft, it's ready to eat
+q_HRFAQ	1	What else has the swastika stood for
+q_HRFAQ	1	Not so much
+q_HRFAQ	1	What is LWP
+q_HRFAQ	1	Maybe not
+q_HRFAQ	1	I was wondering if you could assist with resetting my password for Singleview
+q_HRFAQ	1	If it hasnt been we will still accept it
+q_HRFAQ	1	As you know, however, the day in New York has hardly begun
+q_HRFAQ	1	What are the names of Richard Nixon's two daughters
+q_HRFAQ	1	Same pan but with a lightweight wooden handle
+q_HRFAQ	1	Should I get a new carpet
+q_HRFAQ	1	What are the criterion to determine bonus eligibility
+q_HRFAQ	1	Which Kevin Costner movie involves the Sioux Indians
+q_HRFAQ	1	I 've always wanted to be a police officer
+q_HRFAQ	1	It goes all the way to Vons
+q_HRFAQ	1	I 'm out of here
+q_HRFAQ	1	American cars a lot of people say they dont last long
+q_HRFAQ	1	Of course it does
+q_HRFAQ	1	Republic of Zambia
+q_HRFAQ	1	Could you please help me with the overtime policy for our India employees
+q_HRFAQ	1	Where can i alter my employee position name within success factors
+q_HRFAQ	1	how to change my address
+q_HRFAQ	1	Incorrect work schedule.
+q_HRFAQ	1	Must rectify an error in my bank account specifics, how can I do that easily
+q_HRFAQ	1	I am not trying to see my payment schedule
+q_HRFAQ	1	i have submitted a request, can you help me figure out the current progress of that request
+q_HRFAQ	1	is the incredible emphasis on sports where enormous amounts of money are spent
+q_HRFAQ	1	I am trying to refer my friend to Oracle SOA senior developer but i am not able to find these in our employee referral portal
+q_HRFAQ	1	The Award Letter will tell you how much you will receive weekly
+q_HRFAQ	1	I 've driven it a few times
+q_HRFAQ	1	How many chemical elements are there
+q_HRFAQ	1	What common plant has a button, cap, cup, gills, and ring
+q_HRFAQ	1	they charge to ski on it
+q_HRFAQ	1	my job title is wrong
+q_HRFAQ	1	36725.375
+q_HRFAQ	1	Are dates always fun to you
+q_HRFAQ	1	How many points do I get for being the Best People Manager
+q_HRFAQ	1	What did Jimmy Stewart invent
+q_HRFAQ	1	Fulton County
+q_HRFAQ	1	I dont believe it took my picture
+q_HRFAQ	1	How can I change the manager's name in navigator
+q_HRFAQ	1	Okay, until next time then
+q_HRFAQ	1	NTTData additional compensation given out like at christmas
+q_HRFAQ	1	What is Compass Concierge
+q_HRFAQ	1	What actress holds the record for the most appearances on the cover of Life
+q_HRFAQ	1	Which of the following TV newsmen was a Rhodes scholar
+q_HRFAQ	1	Everyone has a talent
+q_HRFAQ	1	Belgium
+q_HRFAQ	1	Ill put you on a morning flight
+q_HRFAQ	1	one million hectares
+q_HRFAQ	1	How can I compute for overtime pay
+q_HRFAQ	1	Swapping the hierarchy structure in my organization by swapping some of the direct reports to different managers
+q_HRFAQ	1	If I get work for a few weeks, will I be terminated from EDD
+q_HRFAQ	1	I made $ 7.50 for that specific job
+q_HRFAQ	1	I found it in today's apartment ads
+q_HRFAQ	1	where do tickets regarding referrals go
+q_HRFAQ	1	Im planning on going but I really need her to give me my invitation
+q_HRFAQ	1	hiring some team members aka backfilling because we fired kendall
+q_HRFAQ	1	They can be, but a lot of times they are wrong
+q_HRFAQ	1	Morning
+q_HRFAQ	1	What is the easiest way to revert my last name from my married one back to my maiden name
+q_HRFAQ	1	the thirty - first of Oct
+q_HRFAQ	1	It's been nice talking to you
+q_HRFAQ	1	I get six Korean channels but nothing in English
+q_HRFAQ	1	Should I raise a resource request in order to process country transfer
+q_HRFAQ	1	I just came to learn that a coworker is no more after his passing recently in an accident, is there a proper chain of notification in this scenario
+q_HRFAQ	1	I changed my diet recently and I eat a lot healthier now
+q_HRFAQ	1	The earthquake did a lot of damage but we will be able to fix everything with time
+q_HRFAQ	1	What is the average age a horse lives
+q_HRFAQ	1	In what year did Hitler gain power of Germany
+q_HRFAQ	1	tell me why my income hasn't been increased, i've been working at the company for a long time and feel like i deserve a raise
+q_HRFAQ	1	I have checked my work schedule. It seems incorrect.
+q_HRFAQ	1	address change
+q_HRFAQ	1	What is a meerkat
+q_HRFAQ	1	My family usually has a small celebration
+q_HRFAQ	1	Define Spumante
+q_HRFAQ	1	It's my wife's birthday, and I 'm going to buy her some flowers
+q_HRFAQ	1	I don't want to dial 911, but I want to see a doctor right now
+q_HRFAQ	1	Hah I guess we never know what can happen
+q_HRFAQ	1	How many consecutive baseball games did Lou Gehrig play
+q_HRFAQ	1	I looked everywhere but I could nt find it anywhere
+q_HRFAQ	1	I don't need to remove a driver
+q_HRFAQ	1	Updating my name in all company records
+q_HRFAQ	1	I was so scared when I saw the gun
+q_HRFAQ	1	An outside table is available right now if you would like to be seated immediately
+q_HRFAQ	1	as far as the quality seems to be there Its quiet it handles well
+q_HRFAQ	1	Don't say that
+q_HRFAQ	1	do all employees get pay raises each year
+q_HRFAQ	1	offshore is being built up, need to submit rr for them as fast as possible
+q_HRFAQ	1	That is so sweet
+q_HRFAQ	1	Is that the reason you're not doing it
+q_HRFAQ	1	Now tell me, what are the hours of this gym
+q_HRFAQ	1	did you get yours as a pet for your chil
+q_HRFAQ	1	What is unauthorised absence
+q_HRFAQ	1	I hope someone can help you
+q_HRFAQ	1	can you answer some of my questions regarding the employee referral program
+q_HRFAQ	1	We also have a sale on Campbell s soup products
+q_HRFAQ	1	Turn off my yahoo notifications
+q_HRFAQ	1	Then we can draw up a contract
+q_HRFAQ	1	Details for state-mandated Temporary Employee Sick Leave
+q_HRFAQ	1	SSS Certificate of Loan Payment
+q_HRFAQ	1	June 30 is my last day
+q_HRFAQ	1	Since the flight delay was our fault and you are continuing on with our airline we will cover the cost of a hotel room
+q_HRFAQ	1	What year was the first automobile manufactured
+q_HRFAQ	1	when you work out do you pretty much do it on your own schedule
+q_HRFAQ	1	Its his house seat
+q_HRFAQ	1	Everything is just fine
+q_HRFAQ	1	And I'd get some more comfortable desks
+q_HRFAQ	1	I dont want my husbands name off the policy
+q_HRFAQ	1	What director made one silent and one sound version of The Ten Commandments
+q_HRFAQ	1	Perfect
+q_HRFAQ	1	What's the sequel to Alice's Adventures in Wonderland
+q_HRFAQ	1	What U.S. city's skyline boasts the Gateway Arch
+q_HRFAQ	1	Who has more DNA - a man or a woman
+q_HRFAQ	1	When someone double clicks my name, they are still seeing my previous employee role name, do i need to tell my manager to put an update in somewhere on navigator so the my updated title is on display instead
+q_HRFAQ	1	she kept telling herself that
+q_HRFAQ	1	What do you know about multicultural and multilingual schools
+q_HRFAQ	1	What Asian gulf were the destroyers Maddox and C Turner Joy shot up in
+q_HRFAQ	1	What woman pitcher has struck out Ted Williams and Hank Aaron
+q_HRFAQ	1	I cant seem to access the time system Can you tell me how many PTO days Ive got
+q_HRFAQ	1	in no less than 85 years
+q_HRFAQ	1	my job title has been changed, but in navigator is not changed, to whom should I address this
+q_HRFAQ	1	Then you can start losing weight, if there isn't another sale
+q_HRFAQ	1	how many holidays are there this year
+q_HRFAQ	1	Look in this flyer, or check with the produce person
+q_HRFAQ	1	After you add the class, check with me in a few weeks to make sure that you are on my roll sheet
+q_HRFAQ	1	what does the medical subscription contain
+q_HRFAQ	1	Maybe he thinks you re cheating
+q_HRFAQ	1	i am going to buy a truck
+q_HRFAQ	1	he had to turn back in a year and a half ago
+q_HRFAQ	1	please help me locate this asset number
+q_HRFAQ	1	Free souvenirs are the only true souvenirs
+q_HRFAQ	1	Twinkle, twinkle, little star
+q_HRFAQ	1	I would appreciate it if you could go to the store for me
+q_HRFAQ	1	Oh Ashley, your dinner looks delicious
+q_HRFAQ	1	do you have
+q_HRFAQ	1	I appreciate you staying on it
+q_HRFAQ	1	TRUE
+q_HRFAQ	1	I never wanted to see my policy status
+q_HRFAQ	1	I legally changed my name to something different than it was listed as in my personnel information, who should i contact to get it fixed
+q_HRFAQ	1	I'm lost
+q_HRFAQ	1	How far out is the universe
+q_HRFAQ	1	What is the trademark of a Washington Redskin's fan
+q_HRFAQ	1	Am I elegible to receive Stars points
+q_HRFAQ	1	I have joined NTT DATA 3 months ago. Please let me know the duration of Probation Confirmation(India)
+q_HRFAQ	1	Where do I schedule meetings in Outlook
+q_HRFAQ	1	As of today how many PTO days do I have
+q_HRFAQ	1	Have a wonderful evening
+q_HRFAQ	1	I voted for Obama
+q_HRFAQ	1	what is our per diem during travel for work
+q_HRFAQ	1	Please no
+q_HRFAQ	1	de nada
+q_HRFAQ	1	Lets find a house thats at the end of a dead end
+q_HRFAQ	1	I have worked at night and i did not get paied for it
+q_HRFAQ	1	Its located right under our lobby
+q_HRFAQ	1	I dont want to my payment options are fine dude
+q_HRFAQ	1	What U.S. general died December 1, 1945, when his jeep collided with a truck
+q_HRFAQ	1	She had eyes like laser beams
+q_HRFAQ	1	I am trying to enter a vacation day and I am receiving the following error - "Your requested time off must include at least one workday.  Please change the dates you've entered accordingly." Why am I receiving this message
+q_HRFAQ	1	What's the traditional drink at the Kentucky Derby
+q_HRFAQ	1	Many freelancing jobs will pay by the word
+q_HRFAQ	1	Ill catch you later then
+q_HRFAQ	1	my work schedule is all sorts of mesed up, i can't even book time off at the moment
+q_HRFAQ	1	What country was Brian Boru an 11th-century king of
+q_HRFAQ	1	I have shifted to new address. Please update in HR record.
+q_HRFAQ	1	does your whole family like to do it
+q_HRFAQ	1	how can i find the service tag id
+q_HRFAQ	1	How do I contact my Health Savings Account provider
+q_HRFAQ	1	I cannot see my leave balance
+q_HRFAQ	1	What are the proper requirements for me to go from a level 2 technician to being promoted to a level 3 technician
+q_HRFAQ	1	Transferring some employees here from another country but i don't know the proper steps to raise that request
+q_HRFAQ	1	they 've stepped up more patrols in certain areas
+q_HRFAQ	1	I need time away from work
+q_HRFAQ	1	Do you all get together often
+q_HRFAQ	1	Do people ever start packing a month or so before moving
+q_HRFAQ	1	quarts
+q_HRFAQ	1	Please dont register my account at this time
+q_HRFAQ	1	How come a doughnut has a hole in it
+q_HRFAQ	1	Much obliged
+q_HRFAQ	1	It wont go in
+q_HRFAQ	1	How should I track my resource request
+q_HRFAQ	1	A mistake was made I dont want to view my document
+q_HRFAQ	1	i have a new home address, where should i update it
+q_HRFAQ	1	Does he help out much
+q_HRFAQ	1	I don't like how those look
+q_HRFAQ	1	Im not looking for any account summary
+q_HRFAQ	1	How much is 401K matching contribution
+q_HRFAQ	1	between dusk and midnight
+q_HRFAQ	1	Ill do that immediately
+q_HRFAQ	1	Oh thats so delicious
+q_HRFAQ	1	The bill was for my Master Card
+q_HRFAQ	1	Job Reference Letter (terminated foreign employees)
+q_HRFAQ	1	Are you going up toward
+q_HRFAQ	1	Sir if you dont calm down you might have a stroke yourself
+q_HRFAQ	1	I have to update my new job title in the navigator. Can you guide me through it
+q_HRFAQ	1	Would you tell me how many types of lemurs are there
+q_HRFAQ	1	Just tell me what you'd like, please
+q_HRFAQ	1	i like turtles
+q_HRFAQ	1	am i eligible for a car loan
+q_HRFAQ	1	By the way, what's ESL
+q_HRFAQ	1	Aisle A is where you'll find all the produce
+q_HRFAQ	1	Leave balance in Replicon
+q_HRFAQ	1	what is the phone number for HR
+q_HRFAQ	1	OK, I'll find it
+q_HRFAQ	1	But of course
+q_HRFAQ	1	What is the best place to live in the world, considering climate, civilization
+q_HRFAQ	1	remove slack from my machine because we do not have the license we thought we had
+q_HRFAQ	1	I need to send in a copy of my daughter's report card.  I know I simply need to upload a copy to you, but I don't know how to upload it to my account.
+q_HRFAQ	1	Do you know where I can order some additional business cards to hand out to people at networking meetings
+q_HRFAQ	1	I think so
+q_HRFAQ	1	Where I come from it isnt impolite to ask
+q_HRFAQ	1	What should I do if one of our employees died during working hours
+q_HRFAQ	1	Could you set up a meeting planner account for my NT id : jchitt200
+q_HRFAQ	1	What U.S. state includes the San Juan Islands
+q_HRFAQ	1	These pants have an elastic waistband
+q_HRFAQ	1	I have submitted overtime entries and the same is approved in the system, still did not receive the payout. Please help.
+q_HRFAQ	1	idk
+q_HRFAQ	1	If you can remember that red means absolutely no parking and white means that you can only load and unload you are going to be OK
+q_HRFAQ	1	What college enlivens Hanover, New Hampshire
+q_HRFAQ	1	i was approved for overtime but didn't get paid
+q_HRFAQ	1	How many gallons of paint does it take to paint the Golden Gate Bridge
+q_HRFAQ	1	I work for $ 150 an hour
+q_HRFAQ	1	The copier is right over there
+q_HRFAQ	1	every one of my friends wants to apply to the company, can i get rewards for suggesting them to apply here
+q_HRFAQ	1	The pleasure was mine
+q_HRFAQ	1	American cars a lot of people say they don't last long
+q_HRFAQ	1	President Dwight D. Eisenhower established the National Aeronautics and Space Administration ( NASA ) in 1958 with a distinctly civilian ( rather than military ) orientation encouraging peaceful applications in space science
+q_HRFAQ	1	I could meet with you tomorrow anywhere from two until four what time works out best
+q_HRFAQ	1	There is a new event for people to hand out business cards to business people
+q_HRFAQ	1	Maybe that could work
+q_HRFAQ	1	did you have a main meal
+q_HRFAQ	1	Ive never had a mango
+q_HRFAQ	1	How can I administer manager change for an employee
+q_HRFAQ	1	What two countries in South America are landlocked
+q_HRFAQ	1	change request for my security identifier
+q_HRFAQ	1	Actually that isnt what I want I want to add a new person to my policy instead
+q_HRFAQ	1	What are the five basic swimming strokes
+q_HRFAQ	1	Where can I find the global payroll calendar
+q_HRFAQ	1	How much does it cost, average or whatever is available, to produce and send junk mail catalogues in the US , DT CD NN NN ,
+q_HRFAQ	1	At night we will roast marshmallows
+q_HRFAQ	1	Suction nozzle is a component of the centrifugal pump
+q_HRFAQ	1	on 03/15/2001 03:54:42 PM
+q_HRFAQ	1	No since the people I know are careful drivers
+q_HRFAQ	1	BGV Initiation Request
+q_HRFAQ	1	I did not get my OT amount paid beginning from my Joining date. Please explain why
+q_HRFAQ	1	I need to update my PO box postal information online, where can i do that
+q_HRFAQ	1	What is my balance of PTO days
+q_HRFAQ	1	Where is Rider College
+q_HRFAQ	1	Do not drink any water that isn't bottled
+q_HRFAQ	1	What was Einstein's IQ
+q_HRFAQ	1	I 've never heard him say please or thank you
+q_HRFAQ	1	Name the first Russian astronaut to do a spacewalk
+q_HRFAQ	1	how to resolve salary error
+q_HRFAQ	1	Can you tell where is the global payroll calendar available.
+q_HRFAQ	1	How do I raise a resource request
+q_HRFAQ	1	Yeah so am I
+q_HRFAQ	1	per diem amount in specific parts of the US please
+q_HRFAQ	1	hes gotten these catalogs try
+q_HRFAQ	1	But until then, you'll have to use the lab
+q_HRFAQ	1	do you have a lot of large families out there in Texas
+q_HRFAQ	1	Who was Lacan
+q_HRFAQ	1	What magazine paid $5, 000 for an eight-millimeter film of John F. Kennedy's assassination
+q_HRFAQ	1	can you actually catch those
+q_HRFAQ	1	No leave information is coming in time off calender, please do the needful
+q_HRFAQ	1	I want to disperse my salary to 2 different accounts. Kindly let me know the process.
+q_HRFAQ	1	Can you tell me how much of the nation's children between the ages of two and eleven watch ` The Simpsons '
+q_HRFAQ	1	I have to raise a RR for country transfer. What are the steps.
+q_HRFAQ	1	It costs fifty cents for the washer and a dollar for the dryer
+q_HRFAQ	1	If I knew which kid did it I would bill his parents
+q_HRFAQ	1	If you do I will keep your deductible
+q_HRFAQ	1	Dental Treatment covered
+q_HRFAQ	1	I think you know that you have to make the best decision for you
+q_HRFAQ	1	How do I edit my social security number in Navigator
+q_HRFAQ	1	I need to request a wakeup call for tomorrow morning
+q_HRFAQ	1	I 've actually been busy lately
+q_HRFAQ	1	Where did the 6th annual meeting of Indonesia-Malaysia forest experts take place
+q_HRFAQ	1	My friend here is continuing on to Puerto Rico and we were wondering if she has to go through Customs
+q_HRFAQ	1	I want to change rooms immediately, plus a refund for tonight
+q_HRFAQ	1	Sure, I love salad
+q_HRFAQ	1	Just one second, and I'll get you the batteries that are on sale
+q_HRFAQ	1	44168
+q_HRFAQ	1	I am an eligible bachelor
+q_HRFAQ	1	But sir our souvenir shop carries all those items
+q_HRFAQ	1	I studied them a lot when I was a child
+q_HRFAQ	1	What did you buy
+q_HRFAQ	1	most people doing child care earn almost no money
+q_HRFAQ	1	at 4 on Friday
+q_HRFAQ	1	I want to look at the souvenirs over at the souvenir stand
+q_HRFAQ	1	What was the name of the horse that fell on Queen Elizabeth, Prince Albert's wife
+q_HRFAQ	1	We dont get free candy anymore
+q_HRFAQ	1	Have to correct my work schedule as it is incorrect.
+q_HRFAQ	1	whats for lunch today please
+q_HRFAQ	1	Working on it
+q_HRFAQ	1	OK Ill go check it out
+q_HRFAQ	1	Let's order the missing items from someone else just to be sure
+q_HRFAQ	1	Name Pittsburgh s baseball team
+q_HRFAQ	1	I exceeded 40 hours last week and my boss said he approved it, but it isnt showing up
+q_HRFAQ	1	I want to put in an appeal for some additional resources and full time employees, what is the proper way
+q_HRFAQ	1	S. Cottage Grove
+q_HRFAQ	1	How large is the Arctic refuge to preserve unique wildlife and wilderness value on Alaska's north coast
+q_HRFAQ	1	I need a few dairy products
+q_HRFAQ	1	an hour
+q_HRFAQ	1	I am a legacy Dell employee. How do I view my Old Dell Paystubs and W2
+q_HRFAQ	1	What is Mark McGwire's e-mail address
+q_HRFAQ	1	Let me think
+q_HRFAQ	1	What year did Apartheid start
+q_HRFAQ	1	who is our CEO
+q_HRFAQ	1	can you offer me the latest version of chrome
+q_HRFAQ	1	Perrier Jim Beam and apples
+q_HRFAQ	1	I didn't hear you
+q_HRFAQ	1	Thank you, but my friend is in the library, and he can give me a ride home
+q_HRFAQ	1	How come
+q_HRFAQ	1	I 'm actually in school right now
+q_HRFAQ	1	I want to discuss my concerns about my salary, who can I talk to
+q_HRFAQ	1	I love the dancing figures
+q_HRFAQ	1	workSchedule needs to be modified to Monday - Friday 45 Hrs/Week from.
+q_HRFAQ	1	Address proof letter
+q_HRFAQ	1	is it on capital crimes that they have to be unanimous
+q_HRFAQ	1	It should be coming soon
+q_HRFAQ	1	What mayor made so many TV appearances he was asked to join AFTRA in 1984
+q_HRFAQ	1	My sister is still stuck in the war as well
+q_HRFAQ	1	42907-2858
+q_HRFAQ	1	can I help my colleague to change her address
+q_HRFAQ	1	should I use specific guidelines for my password
+q_HRFAQ	1	Change
+q_HRFAQ	1	Do you think D Base is more flexible or allows you to do more
+q_HRFAQ	1	Who can guide me with my workSchedule
+q_HRFAQ	1	New faucets are not that expensive and can quickly add a clean and more up-to-date look
+q_HRFAQ	1	These teams draw on McKinsey's global network of partners and industry and management experts
+q_HRFAQ	1	I have overtime issues as I haven't got paid for the overtime that I did in the last week of November
+q_HRFAQ	1	Then they re worth every penny
+q_HRFAQ	1	I fucking do not want to see my policy status
+q_HRFAQ	1	can you please request access to CSG QAYA for me please
+q_HRFAQ	1	How can I register my website in Yahoo for free
+q_HRFAQ	1	how to submit travel expense
+q_HRFAQ	1	I couldn't find any stamps
+q_HRFAQ	1	im not trying to see my bill
+q_HRFAQ	1	What revelation did Alexander Butterfield make to the Senate Watergate committee
+q_HRFAQ	1	that's different for me
+q_HRFAQ	1	Just looked at the records on navigator and it doesn't show my full middle name, how can i edit this personal record online
+q_HRFAQ	1	i have some issues with ot
+q_HRFAQ	1	Where should i go to switch my PAN with the most up to date one
+q_HRFAQ	1	Like what for instance
+q_HRFAQ	1	N. LaSalle St
+q_HRFAQ	1	Job Title Change
+q_HRFAQ	1	I want to reset my Outlook password
+q_HRFAQ	1	# 29
+q_HRFAQ	1	Is there anything that I can do to the bathrooms and kitchen that would nt cost too much
+q_HRFAQ	1	The sooner I get her enrolled the better
+q_HRFAQ	1	Olivia here
+q_HRFAQ	1	Name one of the major gods of Hinduism
+q_HRFAQ	1	Initiate the process
+q_HRFAQ	1	I just made a payment of 178
+q_HRFAQ	1	Where on My Hub can I locate the global payroll calendar
+q_HRFAQ	1	On which date is the Ukrainians ' Christmas
+q_HRFAQ	1	haven't received my package yet
+q_HRFAQ	1	However in our gym we do have swim stations
+q_HRFAQ	1	The older kids had wanted one though
+q_HRFAQ	1	I would enjoy coming to Mary s party
+q_HRFAQ	1	As per new client engagement policies, i need to move my employees to report directly to the account manager
+q_HRFAQ	1	by 6:30
+q_HRFAQ	1	I would like to know leave policy for UAE
+q_HRFAQ	1	I felt that the food was pretty mediocre
+q_HRFAQ	1	I'll be leaving on the last day of June
+q_HRFAQ	1	i am thinking of changing my hairdo
+q_HRFAQ	1	I'd really prefer not to look at that damn status thanks
+q_HRFAQ	1	The process of actually making the offer is something that I will take care of for you
+q_HRFAQ	1	My national ID details updation.
+q_HRFAQ	1	Very good
+q_HRFAQ	1	Must submit a name change request on company systems, how should i do this
+q_HRFAQ	1	How to get information about Travel and Expense policy as I have to travel this month
+q_HRFAQ	1	A lot of places Ive looked into dont allow pets
+q_HRFAQ	1	I want to eat too
+q_HRFAQ	1	No I always back up my files
+q_HRFAQ	1	Maybe I'll wait until the next sale
+q_HRFAQ	1	Good evening
+q_HRFAQ	1	People will have to go another route due to the traffic accident
+q_HRFAQ	1	Oh, I don't know
+q_HRFAQ	1	what's the stars point
+q_HRFAQ	1	I hate to call you this late at night, but could you possibly help me get to the emergency room
+q_HRFAQ	1	What is the most widely cultivated plant
+q_HRFAQ	1	Okay, porterhouse will be fine then
+q_HRFAQ	1	Well, the years start coming and they don't stop coming
+q_HRFAQ	1	What is the main application of sodium hydrosulfite
+q_HRFAQ	1	what to do if soemone resigns
+q_HRFAQ	1	44083
+q_HRFAQ	1	What international organization was founded by Clara Barton
+q_HRFAQ	1	What money was used here
+q_HRFAQ	1	Winfield Rd
+q_HRFAQ	1	Isnt that a great car
+q_HRFAQ	1	It does not work very well
+q_HRFAQ	1	Oh, I know a place where you might like to eat
+q_HRFAQ	1	Raising a RR or Resource request for the country transfer
+q_HRFAQ	1	Is the baby covered from Day 1
+q_HRFAQ	1	Ive made a few garments
+q_HRFAQ	1	Ill say
+q_HRFAQ	1	85
+q_HRFAQ	1	Travel policy information
+q_HRFAQ	1	Nice meeting you, too
+q_HRFAQ	1	That is a tough one to answer
+q_HRFAQ	1	on the 27th
+q_HRFAQ	1	Which mosquito's bite draws blood, DT NN CC DT NN
+q_HRFAQ	1	Roll up your left sleeve and have a seat
+q_HRFAQ	1	How much did the first Barbie doll sell for in 1959
+q_HRFAQ	1	Rio de Janeiro s famous Maracana is the setting as Messi attempts to emulate his idol Diego Maradona by leading his team to victory against Germany in front of 73500 fans and an estimated global television audience of around one billion
+q_HRFAQ	1	I hate brushing my teeth
+q_HRFAQ	1	Now let me see a credit card, please
+q_HRFAQ	1	Where was Poe born
+q_HRFAQ	1	Any more hints as to what I should do in an interview
+q_HRFAQ	1	How many web servers are there
+q_HRFAQ	1	Maybe you should go and look in the refrigerator
+q_HRFAQ	1	20 hours
+q_HRFAQ	1	What is the meaning of thalassemia
+q_HRFAQ	1	on June 26 1:00p.m.-2;00p.m
+q_HRFAQ	1	I am looking for the MIP Eligibility guidelines. Can you please guide
+q_HRFAQ	1	How much did Alaska cost when bought from Russia
+q_HRFAQ	1	one hour
+q_HRFAQ	1	I am leaving from work, so maybe I could just meet you at the first house that we will look at
+q_HRFAQ	1	tomorrow at 23:19:31 PDT
+q_HRFAQ	1	You have my appreciation
+q_HRFAQ	1	4742
+q_HRFAQ	1	When he saw me in person, he seemed bothered by me although I seemed to be under consideration when I e-mailed him
+q_HRFAQ	1	I know but I still get my license right
+q_HRFAQ	1	I promise you it wont be a problem for me
+q_HRFAQ	1	Name 11 famous martyrs
+q_HRFAQ	1	Josh and I were just on our way back home from the beach and thought we'd drop by
+q_HRFAQ	1	this is the best day
+q_HRFAQ	1	can you change my desktop background
+q_HRFAQ	1	What does LOL mean
+q_HRFAQ	1	people think you burn it it's gone
+q_HRFAQ	1	letter of verification requisition
+q_HRFAQ	1	It doesnt take much time to make
+q_HRFAQ	1	I just found the perfect house, but the bank wants me to provide a letter of verification to prove my employment, where can i find on the company website
+q_HRFAQ	1	I would refuse because I would not know the side effects it would have
+q_HRFAQ	1	i want to surf the internet
+q_HRFAQ	1	Exactly because without manufacturing we would not have the goods that we depend on
+q_HRFAQ	1	I don’t know
+q_HRFAQ	1	What were the first bodies visited by spacecraft
+q_HRFAQ	1	What are the two languages of Malta
+q_HRFAQ	1	Im taking a math course in school
+q_HRFAQ	1	He took my phone and my wallet
+q_HRFAQ	1	The contract for my direct reportee is ending and we do not have any project for hi. How can I terminate the employee
+q_HRFAQ	1	from 1,000 pounds to 1,500
+q_HRFAQ	1	how sick do I have to be to take off from work
+q_HRFAQ	1	update mailing address
+q_HRFAQ	1	Sadly, he did get away
+q_HRFAQ	1	Sir, when I deleted the $ 10, the program automatically added a $ 2 service charge
+q_HRFAQ	1	Name an art gallery in New York
+q_HRFAQ	1	I play guitar, and I like to sing
+q_HRFAQ	1	36
+q_HRFAQ	1	On average, how long time does it take to type a screenplay
+q_HRFAQ	1	I want to opt for parental insurance
+q_HRFAQ	1	Some bands dont sound as good live as they do in the studio
+q_HRFAQ	1	between nine and ten o'clock
+q_HRFAQ	1	What is the gestation period for human pregnancies
+q_HRFAQ	1	What's the symbol for the zodiacal sign Gemini
+q_HRFAQ	1	I didn't either, but a paycheck's a paycheck
+q_HRFAQ	1	I need it moved from my apartment
+q_HRFAQ	1	Once I 'm finished with my GE, it should get better
+q_HRFAQ	1	could you show me the best way to update my personal contact information within navigator
+q_HRFAQ	1	May I bring along a picnic lunch for us to share
+q_HRFAQ	1	How big is the Electoral College
+q_HRFAQ	1	what is STARs point process
+q_HRFAQ	1	HRBP here, I am going to change the HLm of portalID 015803 to portalID 102398
+q_HRFAQ	1	Who was the first person to study the stars
+q_HRFAQ	1	Call me when you re coming over
+q_HRFAQ	1	My favorite King movie is the Shawshank Redemption
+q_HRFAQ	1	Agreed
+q_HRFAQ	1	No only if your car was manufactured before 1975
+q_HRFAQ	1	how can i get my paystubs
+q_HRFAQ	1	my phone number is not correct, how should i fix it
+q_HRFAQ	1	Congratulations on your promotion
+q_HRFAQ	1	im an hrbp, want to change some hlms quick quick
+q_HRFAQ	1	How do I give a good massage
+q_HRFAQ	1	usually we do this as a team
+q_HRFAQ	1	What was a Mae West on a World War II battleship
+q_HRFAQ	1	There really are not many side effects
+q_HRFAQ	1	And all that glitters is gold
+q_HRFAQ	1	Absolutely, yes
+q_HRFAQ	1	Is there any guideline to change the address in the Navigator
+q_HRFAQ	1	how to change my bank account
+q_HRFAQ	1	Straight ahead is the gourmet kitchen
+q_HRFAQ	1	How much pto do I still have left over
+q_HRFAQ	1	I no longer reside in the house listed on navigator, how can i update my living accomodation address
+q_HRFAQ	1	Don't drink milk out of the carton
+q_HRFAQ	1	She is a toddler
+q_HRFAQ	1	Who was the first woman in space
+q_HRFAQ	1	He seemed like a really nice guy
+q_HRFAQ	1	It's 626-555-3000
+q_HRFAQ	1	Can you say it again
+q_HRFAQ	1	Please correct my name
+q_HRFAQ	1	What crop failure caused the Irish Famine
+q_HRFAQ	1	I have asked for Domiciliation de salaire and i would like to know if i am eligible to change my direct deposit
+q_HRFAQ	1	I do not want to add a car
+q_HRFAQ	1	How do I know hostname
+q_HRFAQ	1	my extra hours are not showing up in my ot
+q_HRFAQ	1	A lot of the streets are rather unclean
+q_HRFAQ	1	I reached out earlier regarding a ticket
+q_HRFAQ	1	Why am I not being paid at market rates
+q_HRFAQ	1	What is the all-time stock high of Apple Computer, and where can I find this information
+q_HRFAQ	1	May I get you some water or coffee
+q_HRFAQ	1	How do i request to hire a candidate for a vacancy
+q_HRFAQ	1	All major accidents should have been recorded
+q_HRFAQ	1	However be sure to take your room key with you
+q_HRFAQ	1	How can i adjust my mailing address to be more up to date on my navigator profile
+q_HRFAQ	1	How do I know who is my HR Business Partner
+q_HRFAQ	1	My old house was a 40 minute drive from here
+q_HRFAQ	1	I did not know that
+q_HRFAQ	1	Now you dial 9 on the keypad
+q_HRFAQ	1	Who is Archie Bunker's son-in-law
+q_HRFAQ	1	Maybe four or five pounds
+q_HRFAQ	1	He had a mask on
+q_HRFAQ	1	In what year did Thatcher gain power
+q_HRFAQ	1	Is there a guide for changing work schedule
+q_HRFAQ	1	Best wishes to you on your anniversary!
+q_HRFAQ	1	He didn't even make it out the door
+q_HRFAQ	1	The total will be $ 32.42
+q_HRFAQ	1	I made an appointment with Dr. Smith, but I have to change it
+q_HRFAQ	1	Are they listed in the menu
+q_HRFAQ	1	US Invitation Letter
+q_HRFAQ	1	What country did the ancient Romans refer to as Hibernia
+q_HRFAQ	1	Hey man I dont want to see my ID
+q_HRFAQ	1	So, I'll just buy another one
+q_HRFAQ	1	What business exports the sparkling wine Spumante
+q_HRFAQ	1	That is so kind of you
+q_HRFAQ	1	did you drum up any interest
+q_HRFAQ	1	is it this year they don't have a draft pick because of the Walker trade
+q_HRFAQ	1	Where can I buy a good snowboard for less than $200
+q_HRFAQ	1	Sir let me hit the delete button and your reservation will be cancelled
+q_HRFAQ	1	What is federal income tax
+q_HRFAQ	1	OK. Got it
+q_HRFAQ	1	In that case you can park either in a student lot or on the street
+q_HRFAQ	1	Cape Town International Airport
+q_HRFAQ	1	Its made of aluminum
+q_HRFAQ	1	What is the best way to overcome a fear
+q_HRFAQ	1	I know, but I still get my license, right
+q_HRFAQ	1	in some cases the absence of health care has resulted from market place forces
+q_HRFAQ	1	She will want an excellent restaurant, of course
+q_HRFAQ	1	My old DELL job title is reflecting in Navigator, please change it as per my grade
+q_HRFAQ	1	What town was the setting for The Music Man
+q_HRFAQ	1	I 've been taking vitamin C and zinc and trying to get some rest
+q_HRFAQ	1	3849
+q_HRFAQ	1	Exactly, it wouldn't be nice if it started raining
+q_HRFAQ	1	Neither did I
+q_HRFAQ	1	Sure would you like anything else
+q_HRFAQ	1	why is my work schedule currently displaying a 4 day work week, i want to be moved to a 5 day work week please, can you make that happen
+q_HRFAQ	1	Ok, I 've got the ingredients on the table
+q_HRFAQ	1	So your company would not be able to create their electronics
+q_HRFAQ	1	What are some of the significant historical events of the 1990s
+q_HRFAQ	1	Who can change a Job Code/Grade/Position
+q_HRFAQ	1	I 'm new to the neighborhood
+q_HRFAQ	1	What chemical in red wine is good for the heart and what exactly does it do to your body
+q_HRFAQ	1	The cable is down right now
+q_HRFAQ	1	What does the name ` Alexandra ' mean
+q_HRFAQ	1	Devi do you have any preference for where you would like to go for dinner for your birthday
+q_HRFAQ	1	We gave him a big carrot for a nose
+q_HRFAQ	1	Next, you feed your dollars into the machine in the slot
+q_HRFAQ	1	Like keep your left arm straight, keep your head down, and follow through
+q_HRFAQ	1	Where can I get information on the original 13 US colonies
+q_HRFAQ	1	How will I know I am entitled for an incentive or bonus
+q_HRFAQ	1	On average, how many miles are there to the moon
+q_HRFAQ	1	Not right now
+q_HRFAQ	1	For you never shut your eye
+q_HRFAQ	1	There will be 4 of us
+q_HRFAQ	1	My problem I guess is time
+q_HRFAQ	1	How about items like THE ONE MINUTE MANAGER which used to be a big
+q_HRFAQ	1	How much cash do i have per day to spend on food versus transportation and hotel while on business travel, does it differ based on where you are
+q_HRFAQ	1	Obviously I look for improvement as we go along but I would like you to do your best from the beginning
+q_HRFAQ	1	A coffin costs too much and takes up too much space
+q_HRFAQ	1	don't even think about it
+q_HRFAQ	1	I am tired of using drawIO, do we have any software licenses for visio or something
+q_HRFAQ	1	Is it raining right now
+q_HRFAQ	1	Sure, no problem, sir
+q_HRFAQ	1	I 've been looking for a long time, and I finally found a good job
+q_HRFAQ	1	I've never made them before
+q_HRFAQ	1	Lets go practice your driving
+q_HRFAQ	1	this seems like a great option
+q_HRFAQ	1	that tied up traffic for a long time
+q_HRFAQ	1	I don't want to upload any documents
+q_HRFAQ	1	She will be impressed with your local knowledge
+q_HRFAQ	1	I don't want to add a vehicle if I can help it
+q_HRFAQ	1	I dont know that many restaurants around here
+q_HRFAQ	1	Do you go out
+q_HRFAQ	1	submit expense for my mobile
+q_HRFAQ	1	My stomach was bothering me
+q_HRFAQ	1	I would like to get some meat today
+q_HRFAQ	1	Goodbye
+q_HRFAQ	1	Rickenbacker International Airport
+q_HRFAQ	1	Its 308 a night
+q_HRFAQ	1	I didn't receive my polling place in the mail
+q_HRFAQ	1	Please help me in finding the global payroll calendar.
+q_HRFAQ	1	he's been in the paper in jail
+q_HRFAQ	1	What is the spectrum of a sine wave
+q_HRFAQ	1	I keep getting phishing emails in my Outlook
+q_HRFAQ	1	Do you think a lot of people when they are listening to a trial put themselves in a position like that and say I would never do something like that
+q_HRFAQ	1	Is that all you need
+q_HRFAQ	1	Laundry actually isnt so bad
+q_HRFAQ	1	0.4 miles
+q_HRFAQ	1	Dave I have no idea what the answer is to that one
+q_HRFAQ	1	PAN update info
+q_HRFAQ	1	I am not satisfied with the current salary and my Manager is not recommending for my salary hike as well. Whom should I connect with to discuss this.
+q_HRFAQ	1	Total amount of Vacation or time off please
+q_HRFAQ	1	But Its going to cost you 2 per key
+q_HRFAQ	1	Take a look at the newest Barbie'Digital Barbie
+q_HRFAQ	1	Oops I guess I was wrong
+q_HRFAQ	1	The most important meal of the day is breakfast
+q_HRFAQ	1	I was worried that you were moving because of your neighbors
+q_HRFAQ	1	We'll be here forever
+q_HRFAQ	1	my manager told me to download camtasia 2018. I'm gonna need help with that
+q_HRFAQ	1	Sir, guests pay nothing to use the stations
+q_HRFAQ	1	What is false consciousness
+q_HRFAQ	1	salary distribution dates
+q_HRFAQ	1	I 've gotten a few
+q_HRFAQ	1	where would i be able to find my host name
+q_HRFAQ	1	i dont want to mess with my payment options
+q_HRFAQ	1	What drink is made up of rum, coconut milk and pineapple
+q_HRFAQ	1	I wash them and then steam them for 15 minutes
+q_HRFAQ	1	What is the name of David Letterman's dog
+q_HRFAQ	1	need to hire new resources for the team
+q_HRFAQ	1	don't you think older fans there
+q_HRFAQ	1	If more people donate money PBS could offer new shows
+q_HRFAQ	1	I can help you with that
+q_HRFAQ	1	Where can I learn about Samuel Gompers
+q_HRFAQ	1	I think I am eligible for bonus incentive but I have not received it.
+q_HRFAQ	1	Just got the legal process done to change my name and want to make sure its reflected across the company website
+q_HRFAQ	1	How do i change my employee position in the navigator system
+q_HRFAQ	1	When was the G7 group of nations formed
+q_HRFAQ	1	Guide to swap my current national id in the system with the updated one
+q_HRFAQ	1	Could I check out this book
+q_HRFAQ	1	How to move folders to favorites
+q_HRFAQ	1	Lets go jogging
+q_HRFAQ	1	reimbursement information for booking travel across the weekend rather than booking a flight there and back
+q_HRFAQ	1	I'll show you how to use it
+q_HRFAQ	1	Of course right over there on your left
+q_HRFAQ	1	Is it in northern California
+q_HRFAQ	1	What's the problem, sir
+q_HRFAQ	1	end of month
+q_HRFAQ	1	Can you tell me where to get business cards
+q_HRFAQ	1	by the end of the day
+q_HRFAQ	1	Who recorded the 1957 hit Tammy
+q_HRFAQ	1	Just pass the gym and it's the first door on your left
+q_HRFAQ	1	That's what I need to do
+q_HRFAQ	1	Outlook is terrible
+q_HRFAQ	1	Do you know how to add comments
+q_HRFAQ	1	Glad to help
+q_HRFAQ	1	I do not have funds available in my WageWorks HSA for 2018, where are my funds
+q_HRFAQ	1	She has a lot of interests
+q_HRFAQ	1	I don't want to cancel my policy
+q_HRFAQ	1	my account is already registered i dont want to do it again
+q_HRFAQ	1	Great come on over and teach me all about garbage disposal keys
+q_HRFAQ	1	Hey I had done some extra hours work in the second week of October but my overtime is still pending. Any help
+q_HRFAQ	1	I did get you something and I will give to you as soon as I unpack
+q_HRFAQ	1	Okay, just one more piece
+q_HRFAQ	1	In a computer, what does SCSI mean
+q_HRFAQ	1	is there any HR process we can follow if one employee dies
+q_HRFAQ	1	Does the company offer Financial Engines (FE)
+q_HRFAQ	1	It's pretty cool that online dating works
+q_HRFAQ	1	I had a stomachache
+q_HRFAQ	1	I'll get started on it now
+q_HRFAQ	1	He didnt even make it out the door
+q_HRFAQ	1	How long do you have to pay back debt after claiming chapter 11 bankruptcy
+q_HRFAQ	1	I didnt mean to
+q_HRFAQ	1	I made some mistake in the RR I just created. who can do the correction
+q_HRFAQ	1	Don't you think you could come down a bit on the price
+q_HRFAQ	1	thats ok I will see if I can start a new one
+q_HRFAQ	1	Thank you so much, Mr. Sandals
+q_HRFAQ	1	Kikwit
+q_HRFAQ	1	Just drop me an email with the time you ve picked
+q_HRFAQ	1	I don't need my account summary, that's not what I'm trying to do
+q_HRFAQ	1	shit
+q_HRFAQ	1	If you move out before then you will not get your deductible
+q_HRFAQ	1	I didnt say anything about removing a new driver
+q_HRFAQ	1	I won't go any lower than $ 1050
+q_HRFAQ	1	Did you have your own business
+q_HRFAQ	1	My computer isn't working
+q_HRFAQ	1	I need to book my trip to New York City I have Amelia V3 training all next week
+q_HRFAQ	1	I need to have it enabled
+q_HRFAQ	1	1001st
+q_HRFAQ	1	what do i need to do to get some issues resolved my ot
+q_HRFAQ	1	tenth
+q_HRFAQ	1	Who should I reach out to when one of my employees died
+q_HRFAQ	1	Will I be able to take a retest
+q_HRFAQ	1	61032-2390
+q_HRFAQ	1	Mary I just dont know how to answer that question
+q_HRFAQ	1	I 've been working on it for hours
+q_HRFAQ	1	What was the nickname of Frederick I, Holy Roman Emperor and King of Germany
+q_HRFAQ	1	Ive been looking for a long time and I finally found a good job
+q_HRFAQ	1	My social has been changed by the government and i want to update that on the company records as soon as possible
+q_HRFAQ	1	Back to business how's it going
+q_HRFAQ	1	Did they tell you why they arrested you
+q_HRFAQ	1	That's way better than I expected so early in the game
+q_HRFAQ	1	What does Lloyd's Lutine Bell announce
+q_HRFAQ	1	Don't get mad at me, please
+q_HRFAQ	1	Who do i need to contact to update my job title across company records
+q_HRFAQ	1	She gave me mine earlier today
+q_HRFAQ	1	Make sure they are smooth
+q_HRFAQ	1	Maybe we can have dinner there
+q_HRFAQ	1	It's the right size, but it weighs too much
+q_HRFAQ	1	I still have my job, thank goodness
+q_HRFAQ	1	I'm ready now
+q_HRFAQ	1	I don't want to reinstate my policy
+q_HRFAQ	1	I am worried about how I am going to pay my tuition
+q_HRFAQ	1	i dont need to drop any cars from my policy
+q_HRFAQ	1	My identity got stolen so they provided me with a new social that i need to put into the navigator system
+q_HRFAQ	1	where can i locate the asset id on my machine
+q_HRFAQ	1	Checks given during christmas
+q_HRFAQ	1	Why do magnets attract
+q_HRFAQ	1	I don't quite understand you
+q_HRFAQ	1	When will the premium be deducted
+q_HRFAQ	1	tell me about the travel policy please as it pertains to NTT Data work trips
+q_HRFAQ	1	But once it s built anything is possible
+q_HRFAQ	1	I am Looking for the EIP incentive Eligibilty guidelines, Please help
+q_HRFAQ	1	But until then youll have to use the lab
+q_HRFAQ	1	have came to office and worked on 11th of Aug'18 and given 7 hours in the SAP but I did not get pay for that. Please review and process if applicable
+q_HRFAQ	1	I went hiking and have terrible poison oak
+q_HRFAQ	1	Can we submit manual overtime inputs
+q_HRFAQ	1	What is the timelines to receive the amount claimed with Travel and expense team
+q_HRFAQ	1	High school or middle school
+q_HRFAQ	1	In that case, we'll take an order of onion rings with our first choice
+q_HRFAQ	1	are you sure they are hyacinths
+q_HRFAQ	1	How can I find out which cities have cable-modem access
+q_HRFAQ	1	What nationality were the 123 people who died in the Black Hole of Calcutta
+q_HRFAQ	1	Maybe you could explain that you are new and got confused could you do that
+q_HRFAQ	1	Good luck in your search for a car
+q_HRFAQ	1	Im always a bit shy around people anyway
+q_HRFAQ	1	Oh, a laptop, of course
+q_HRFAQ	1	I have a bad toothache
+q_HRFAQ	1	What aisle is that
+q_HRFAQ	1	The oxygen mask is above you and will drop down if you need it
+q_HRFAQ	1	Who sang about Desmond and Molly Jones
+q_HRFAQ	1	i need a medical letter, who should i contact
+q_HRFAQ	1	Should we invite the whole committee or should we just have the subcommittee there
+q_HRFAQ	1	My portalID is 139184, please do a direct report change for employee 145896 to manager portal id 129485
+q_HRFAQ	1	where i can find the work from home policy
+q_HRFAQ	1	I would really like to bring my friend Jake if that would be OK
+q_HRFAQ	1	What do flatfish eat
+q_HRFAQ	1	When did Amtrak begin operations
+q_HRFAQ	1	All you will get is sore knuckles
+q_HRFAQ	1	Criteria for updatiing SSN details.
+q_HRFAQ	1	I am looking for the calendar for the payroll. Any idea
+q_HRFAQ	1	is it possible to adjust the name of my occupation within navigator
+q_HRFAQ	1	did they make the movies after that
+q_HRFAQ	1	Sixty State Park Road
+q_HRFAQ	1	870
+q_HRFAQ	1	bringing my contact information up to date, how should i go about htat
+q_HRFAQ	1	What are the five richest countries in the world
+q_HRFAQ	1	do you watch children
+q_HRFAQ	1	Name a South African diamond producer
+q_HRFAQ	1	I 've heard that disposals need to be run frequently
+q_HRFAQ	1	It just started happening last night
+q_HRFAQ	1	It wont play a DVD
+q_HRFAQ	1	please
+q_HRFAQ	1	status of REQ000000123456
+q_HRFAQ	1	Kara I had fun the other night at the movies and was wondering if you would like to go out again this Friday
+q_HRFAQ	1	Is there kind of a
+q_HRFAQ	1	There's at least one huge accident every day
+q_HRFAQ	1	Its been ages since we had a chance to visit with you
+q_HRFAQ	1	How can I manage my medical and life plan (such as adding, removing people, submitting requests, etc)
+q_HRFAQ	1	What is the largest snake in the world
+q_HRFAQ	1	Just tell me your name his name and when he s coming by
+q_HRFAQ	1	I really love this meal
+q_HRFAQ	1	thats correct
+q_HRFAQ	1	Oftentimes buyers are put off by this practice
+q_HRFAQ	1	I'm having a payment issue
+q_HRFAQ	1	Opened
+q_HRFAQ	1	Whats my current PTO balance
+q_HRFAQ	1	What is the federal minimum wage
+q_HRFAQ	1	I really hope it rains today
+q_HRFAQ	1	Nine is a great time to get started
+q_HRFAQ	1	The results from your query may be extensive or very narrow depending on which fields you query
+q_HRFAQ	1	Evanston
+q_HRFAQ	1	I wouldnt do that if I were you
+q_HRFAQ	1	Hey, that would be perfect
+q_HRFAQ	1	Room service will be charged to your amenities account
+q_HRFAQ	1	The employee is transferring to the U.S. What process needs to be followed
+q_HRFAQ	1	walkthrough to update home/mailing address information
+q_HRFAQ	1	An architect was just hired, we have to adjust some employees that are currently under a VP that should be under the architect instead
+q_HRFAQ	1	are they still there
+q_HRFAQ	1	I'm going on a business trip
+q_HRFAQ	1	What's the origin of the word ` news '
+q_HRFAQ	1	I wonder what he ll name it
+q_HRFAQ	1	I 'm not ever going to leave
+q_HRFAQ	1	Does the key fit in the lock
+q_HRFAQ	1	assetID
+q_HRFAQ	1	I forgot about that section
+q_HRFAQ	1	I have a failed to port and need to make a ticket for it
+q_HRFAQ	1	Maybe Ill be back for more computer stuff
+q_HRFAQ	1	Would you mind telling me how many people are taller than 7 feet
+q_HRFAQ	1	I have got promoted recently and want to get replacement visiting card
+q_HRFAQ	1	will you reimburse any expense submit
+q_HRFAQ	1	I would if I knew anything for sure, but I want to take a second look
+q_HRFAQ	1	Issues related to overtime
+q_HRFAQ	1	It seems you have late fees
+q_HRFAQ	1	What is my Work Schedule
+q_HRFAQ	1	which month of the year do we get our incentives or bonus
+q_HRFAQ	1	I apologize for their tardiness
+q_HRFAQ	1	My office number is 6265553000
+q_HRFAQ	1	gesundheit
+q_HRFAQ	1	how is my request coming along for the hardware request I made last week
+q_HRFAQ	1	Whose husbands have included Conrad Hilton Jr., and Michael Wilding
+q_HRFAQ	1	Do you find now though that even some doctors won 't
+q_HRFAQ	1	5037
+q_HRFAQ	1	For sure
+q_HRFAQ	1	What is Black Hills, South Dakota most famous for
+q_HRFAQ	1	I 'm positive I like his motives and stand points
+q_HRFAQ	1	Didnt I tell you to call when youre running late
+q_HRFAQ	1	Is the price that we get by looking at comparisons necessarily the asking price that I have to use for my home
+q_HRFAQ	1	i dont have the need to add multiple cars
+q_HRFAQ	1	who can i ask to figure out what my host name is
+q_HRFAQ	1	I thought you had a job
+q_HRFAQ	1	Im sorry for running it but I really didnt know
+q_HRFAQ	1	once i open command prompt what exactly do i type in to find my serial nubmer or service tag
+q_HRFAQ	1	no smoking policy
+q_HRFAQ	1	did you have another ques
+q_HRFAQ	1	What is the score that each of the employees get for a team award
+q_HRFAQ	1	walkthrough on how to locate that tad id
+q_HRFAQ	1	Here's the little sticker that was on it
+q_HRFAQ	1	I ain't the sharpest tool in the shed
+q_HRFAQ	1	Looking forward to it
+q_HRFAQ	1	updating my navigator address to my new address
+q_HRFAQ	1	would you help me install a software
+q_HRFAQ	1	They are very odd
+q_HRFAQ	1	I really need to check out this magazine
+q_HRFAQ	1	regional information about payroll dates
+q_HRFAQ	1	Everywhere I look I see cockroaches
+q_HRFAQ	1	How do I see my summary of absences - Earned, Taken, Balance, Planned
+q_HRFAQ	1	I am not trying to review the status of my policy
+q_HRFAQ	1	A speeding car ran a red light, killing the girl
+q_HRFAQ	1	It has been hard for me to sleep with a bad headache
+q_HRFAQ	1	Can I use Home address in my Business card
+q_HRFAQ	1	payroll issues
+q_HRFAQ	1	What is a fear of color
+q_HRFAQ	1	All of that's on the package
+q_HRFAQ	1	In what U.S. state was the first woman governor elected
+q_HRFAQ	1	I know and I will not be paying the 25 late fee
+q_HRFAQ	1	We dont have to listen to barking dogs
+q_HRFAQ	1	How do I update my national ID (SSN/PAN/SID) in company records
+q_HRFAQ	1	I dont wanna archive any of my emails
+q_HRFAQ	1	It is, but it's dangerous
+q_HRFAQ	1	I'm so lost
+q_HRFAQ	1	Who is Barbara Jordan
+q_HRFAQ	1	How can I receive a pay raise
+q_HRFAQ	1	when does NTT give out promotions to employees
+q_HRFAQ	1	If your destination is close by you might want to just grab a taxicab
+q_HRFAQ	1	Im seeing that you are doing OK in some areas but not so well in others
+q_HRFAQ	1	have you ever been to any of them concerts that you like
+q_HRFAQ	1	Its our biggest 16 in diameter
+q_HRFAQ	1	could you please
+q_HRFAQ	1	I have resigned from the company and my last working day is tomorrow.  Please let me know when can I get my letters
+q_HRFAQ	1	Okay so do you want me to be the dealer
+q_HRFAQ	1	Goodbye, and thank you
+q_HRFAQ	1	i dont know my host name
+q_HRFAQ	1	Could be better
+q_HRFAQ	1	A flea market is a big outdoor place where you can buy all sorts of secondhand things
+q_HRFAQ	1	Sure, can I see your student ID
+q_HRFAQ	1	I really have no excuse, sir
+q_HRFAQ	1	Clear out some space for me
+q_HRFAQ	1	Experience Letter
+q_HRFAQ	1	between 10 and 18
+q_HRFAQ	1	Reviewing my policy status isn't what I want to do today
+q_HRFAQ	1	How do I reinstate my dependent in Dental and Vision if they have removed automatically
+q_HRFAQ	1	for my policy i dont want to remove a driver right now
+q_HRFAQ	1	I received an eviction notice from you and I dont understand what it means
+q_HRFAQ	1	He'll forgive me
+q_HRFAQ	1	How does Compass help to calculate projected costs for 2018
+q_HRFAQ	1	What is the use of a 24-hour clock instead of a 12-hour clock
+q_HRFAQ	1	For external transfers deposits will appear in the client s account on the next business day
+q_HRFAQ	1	Do you know how I can figure how approximately when I will receive my paycheck, such as some sort of paycheck schedule
+q_HRFAQ	1	just stay in your truck
+q_HRFAQ	1	Temple City
+q_HRFAQ	1	how do i enter my time sheet
+q_HRFAQ	1	What famous British actor lost his voice after an operation in 1966
+q_HRFAQ	1	I need acces to some applications
+q_HRFAQ	1	Ok I ve got the ingredients on the table
+q_HRFAQ	1	I believe it began leaking today
+q_HRFAQ	1	there's a program I'll need on my office laptop while I wfh
+q_HRFAQ	1	Hey, have you been on Facebook lately
+q_HRFAQ	1	My rear bumper is messed up
+q_HRFAQ	1	me with the proper pathway to get an HR letter
+q_HRFAQ	1	What are the eligibility criteria for salary advance
+q_HRFAQ	1	Is that something that you'd be interested in
+q_HRFAQ	1	He was hot
+q_HRFAQ	1	What did Thomas Paine write
+q_HRFAQ	1	Now there's still a whole New York day ahead of me
+q_HRFAQ	1	i dont wanna get rid of any of my cars
+q_HRFAQ	1	All right Im going to need you to fill this out
+q_HRFAQ	1	No, but thank you
+q_HRFAQ	1	am a NTT DATA team member, what will happen to my medical insurance coverage if I get transferred onsite
+q_HRFAQ	1	That's wrong, I don't need the quote ID
+q_HRFAQ	1	How much paid off time do I have
+q_HRFAQ	1	Thanks for all your help
+q_HRFAQ	1	So what are you doing with your girlfriend this Valentine's Day
+q_HRFAQ	1	What is a fear of jealousy
+q_HRFAQ	1	Sadly he did get away
+q_HRFAQ	1	In the urban areas
+q_HRFAQ	1	I honestly dont know but we will freeze payment on these charges
+q_HRFAQ	1	filled out appication on line for insurance but stopped after payment information
+q_HRFAQ	1	I 'm giving them one more warning about their TV
+q_HRFAQ	1	mostly catfish
+q_HRFAQ	1	Especially on a hot day like this
+q_HRFAQ	1	What films featured the character Popeye Doyle
+q_HRFAQ	1	What wild and crazy guy wrote a book called Cruel Shoes
+q_HRFAQ	1	how can i get the latest version of outlook
+q_HRFAQ	1	So the cop will stop those cars
+q_HRFAQ	1	I never said anything about uploading a copy of my drivers license
+q_HRFAQ	1	14:14 p.m
+q_HRFAQ	1	What did Delilah do to Samson's hair
+q_HRFAQ	1	The cat doesnt care about anything
+q_HRFAQ	1	What animal migrates the farthest
+q_HRFAQ	1	Like my husband is not musical at all
+q_HRFAQ	1	Oh no its not a problem I can work with you
+q_HRFAQ	1	can you outline the point value of each of the STAR awards
+q_HRFAQ	1	Is this two year old yours
+q_HRFAQ	1	I have received a promotion and want to amend my previous title on the website
+q_HRFAQ	1	I can't submit my time on navigator because the work schedule system seems to be messed up
+q_HRFAQ	1	I do not intend to change my payment options
+q_HRFAQ	1	Are we all clear to keep going
+q_HRFAQ	1	I dont like it but I guess I can live with it
+q_HRFAQ	1	Maybe I got it from the equipment
+q_HRFAQ	1	What causes tuberculosis
+q_HRFAQ	1	I really dont know
+q_HRFAQ	1	I need to change my PAN , how do i update or add my correct number
+q_HRFAQ	1	The employee is transferring  to Singapore. What process needs to be followed
+q_HRFAQ	1	my work order number is WO0000002163899
+q_HRFAQ	1	I understand, I guess
+q_HRFAQ	1	( 415 ) 733-5401
+q_HRFAQ	1	How to deal with the overtime issues that I had faced in the month of August
+q_HRFAQ	1	Oh look
+q_HRFAQ	1	I will knock on the doors of all the corporations
+q_HRFAQ	1	Most of my time here was pleasant
+q_HRFAQ	1	Itll be our pleasure
+q_HRFAQ	1	Details about the process required to update a job code in navigator
+q_HRFAQ	1	I think my work schedule is incorrect.
+q_HRFAQ	1	Sure buddy, hop in the back
+q_HRFAQ	1	It should have been, but it wasn't
+q_HRFAQ	1	my working times are incorrects, seems something in my schedule is wrong
+q_HRFAQ	1	what will be my notice period if i resign today
+q_HRFAQ	1	My friend needed me to help him
+q_HRFAQ	1	Is it the correct place to save the PAN details? Steps please
+q_HRFAQ	1	Some international airlines charge a fee for extra bags or weight but allow you a free bag
+q_HRFAQ	1	I dont want to remove a car
+q_HRFAQ	1	How do I contact answers.com
+q_HRFAQ	1	Hi how are you
+q_HRFAQ	1	I am not, I don't want to see my account summary
+q_HRFAQ	1	Please put $ 150 in each account for me
+q_HRFAQ	1	I'll send somebody over right away to fix it
+q_HRFAQ	1	See you soon
+q_HRFAQ	1	These are due back in two weeks
+q_HRFAQ	1	Can I change my name in Navigator myself
+q_HRFAQ	1	Okay, I want you to put the sofa in the living room
+q_HRFAQ	1	But that's what the ad says
+q_HRFAQ	1	What is Nicholas Cage's profession
+q_HRFAQ	1	travel policy
+q_HRFAQ	1	my coworker has met an untimely end, do i tell my manager or do i tell HR first
+q_HRFAQ	1	I want to change someone's direct report
+q_HRFAQ	1	What constellation contains the twins Castor and Pollux
+q_HRFAQ	1	Henry Street
+q_HRFAQ	1	After you have picked up your bags you will be directed to Customs
+q_HRFAQ	1	I'll see you tomorrow then
+q_HRFAQ	1	Miss, I believe I ordered my eggs scrambled, and these are fried
+q_HRFAQ	1	I'd rather have a small wedding
+q_HRFAQ	1	Who were the head writers for the Smothers Brothers Comedy Hour
+q_HRFAQ	1	Locate the HR page
+q_HRFAQ	1	Details about the travel and expense policy at NTTData please
+q_HRFAQ	1	ask how old is the heating system
+q_HRFAQ	1	anything else about
+q_HRFAQ	1	install blue prism onto my laptop please
+q_HRFAQ	1	Rudy Randolph 8185551234
+q_HRFAQ	1	now I don't know what the current Texas laws are
+q_HRFAQ	1	on 1/19
+q_HRFAQ	1	can my password have numbers and letters=
+q_HRFAQ	1	98629
+q_HRFAQ	1	What happens if my family status changes during the policy
+q_HRFAQ	1	You're very welcome
+q_HRFAQ	1	MGI s indepth reports have covered more than 20 countries and 30 industries
+q_HRFAQ	1	What is the proper way to request a verification letter so i can provide it to immigration
+q_HRFAQ	1	install Notepad++
+q_HRFAQ	1	Sometimes the pain goes away, and sometimes it doesn't
+q_HRFAQ	1	I 'm big on running, although maybe I like art even more than running
+q_HRFAQ	1	I apologize, sir
+q_HRFAQ	1	The bank needs me to provide documentation or a verification letter, what is the fastest way to get one
+q_HRFAQ	1	5197
+q_HRFAQ	1	How many colors are there in a rainbow
+q_HRFAQ	1	Later
+q_HRFAQ	1	OK, so that will bring her tip to $ 7.20
+q_HRFAQ	1	Im trying to make friends
+q_HRFAQ	1	star awards
+q_HRFAQ	1	What were popular songs and types of songs in the 1920s
+q_HRFAQ	1	Who was the last U.S. president to reinstate Selective Service registration
+q_HRFAQ	1	What is hypertext
+q_HRFAQ	1	What detective lives on Punchbowl Hill and has 11 children
+q_HRFAQ	1	Aspartame is known by what other name
+q_HRFAQ	1	request to change payroll bank account
+q_HRFAQ	1	I think I am running a fever and my stomach hurts
+q_HRFAQ	1	I will be on a work trip in the last week of October. Whom should I contact for travel related policy
+q_HRFAQ	1	Work Certificate
+q_HRFAQ	1	thats what I am here for
+q_HRFAQ	1	it's about two thousand square feet now
+q_HRFAQ	1	I don't need two different accounts anymore
+q_HRFAQ	1	I have already shared approval but not received Business card so far, please let me know the escalation point
+q_HRFAQ	1	It appears these books are two weeks late
+q_HRFAQ	1	If your group does not have a leader, then you should step up and be one
+q_HRFAQ	1	Where is McCarren Airport
+q_HRFAQ	1	Im looking for a church
+q_HRFAQ	1	Hold on and Ill get you the batteries that are on sale
+q_HRFAQ	1	No, I can't make it today
+q_HRFAQ	1	Jones is available
+q_HRFAQ	1	By going to the providers on the HMO list you save money in outofpocket expenses
+q_HRFAQ	1	Just go straight ahead down the escalator and there will be signs directing you
+q_HRFAQ	1	What caused Shea & Gould to close their L.A. office
+q_HRFAQ	1	2 of my team members were confirmed this month. When will they get the confirmation letter
+q_HRFAQ	1	For that destination you may leave from Los Angeles or Burbank Airport
+q_HRFAQ	1	Right away sir
+q_HRFAQ	1	I will contact the sellers with your current offer
+q_HRFAQ	1	I have not received points for completing 3 years in the organization
+q_HRFAQ	1	What is the name of the city that Maurizio Pellegrin lives in
+q_HRFAQ	1	it's just so versatile
+q_HRFAQ	1	where shouild i update my contact info
+q_HRFAQ	1	Sick day available balance
+q_HRFAQ	1	Do I have a lot of vacation days left
+q_HRFAQ	1	Provide me a walkthrough on how to find my hostname
+q_HRFAQ	1	What are Star-points
+q_HRFAQ	1	Can I reorder business cards that i've already ordered in the past from the print site
+q_HRFAQ	1	If you can, could you pick up my prescription for me
+q_HRFAQ	1	I'm just curious, what exactly do we do if we find out that one of our fellow employees has passed away
+q_HRFAQ	1	Need to procure a sublime text license and install it onto my machine for a client engagement
+q_HRFAQ	1	I think I 'm going to eat a piece of fruit
+q_HRFAQ	1	Stay in well-lit areas
+q_HRFAQ	1	My amount for overtime has not be credited correctly. Please help me to clarify the same.
+q_HRFAQ	1	What is Medical Insurance
+q_HRFAQ	1	my new HLM is still not updated in Navigator
+q_HRFAQ	1	Sleep well
+q_HRFAQ	1	What hard-of hearing artist painted Sunflowers
+q_HRFAQ	1	It won't go in
+q_HRFAQ	1	We need Sasikumar Palanisamys last drawn salary and job code before flying to united States
+q_HRFAQ	1	In 1990, what day of the week did Christmas fall on
+q_HRFAQ	1	Oh, my gosh
+q_HRFAQ	1	81988-0040
+q_HRFAQ	1	How should I make the referral
+q_HRFAQ	1	Death of an employee
+q_HRFAQ	1	Where can I get information about cystic fibrosis
+q_HRFAQ	1	I said what was it about
+q_HRFAQ	1	lets see what the inside looks like
+q_HRFAQ	1	how to book hotel for business travel in china
+q_HRFAQ	1	that must be an inner school
+q_HRFAQ	1	Will i be receiving my paycheck bimonthly if i move to the NTT team in europe
+q_HRFAQ	1	I will give you the direct line to call to report this when it is happening
+q_HRFAQ	1	did you have any problems with that
+q_HRFAQ	1	How does lightning travel
+q_HRFAQ	1	Did you work somewhere else
+q_HRFAQ	1	Very helpful
+q_HRFAQ	1	Job letter for Foreign Employees without commercial Discounts
+q_HRFAQ	1	show me where to get the host name for you
+q_HRFAQ	1	a few decades
+q_HRFAQ	1	i do not intend to upload docuemnts to your site for my policy
+q_HRFAQ	1	Since then, I lost the MeetingPlanner widget in Outlook
+q_HRFAQ	1	Can I use all my PTO days How many do I have
+q_HRFAQ	1	That won't be possible today
+q_HRFAQ	1	I want to update new bank account details in Navigator. Please guide.
+q_HRFAQ	1	What are the only two states that incorporate the Confederate battle flag in their flags
+q_HRFAQ	1	how do i access catalys
+q_HRFAQ	1	Do you go with friends
+q_HRFAQ	1	What does the term glory hole mean
+q_HRFAQ	1	for each person i bring to the table in terms of employee referrals, do i receive cash
+q_HRFAQ	1	I do not want to add a driver
+q_HRFAQ	1	Im voting for David Mulder the Mayor of our city
+q_HRFAQ	1	What was the first TV set to include a remote control
+q_HRFAQ	1	Can you please assist with releasing the stuck lead 7455494
+q_HRFAQ	1	Oh great, we could both work at Burger King
+q_HRFAQ	1	As a matter of fact I am
+q_HRFAQ	1	Actually, our local community college has one on the first Sunday of each month
+q_HRFAQ	1	anything new you like coming out now other than folk music some I might know of
+q_HRFAQ	1	I dont actually want to see my summary
+q_HRFAQ	1	I don't too much
+q_HRFAQ	1	I would like you to be my lawyer
+q_HRFAQ	1	fuck you
+q_HRFAQ	1	Can you tell me how many wings does a flea have
+q_HRFAQ	1	Right away, sir
+q_HRFAQ	1	I could meet with you tomorrow anywhere from two until four ; what time works out best
+q_HRFAQ	1	Can you assist me with the overtime issues.
+q_HRFAQ	1	How tall is Prince Charles
+q_HRFAQ	1	What country boasts the most cars per mile of road
+q_HRFAQ	1	She was a cute 8 pounds 6 ounces
+q_HRFAQ	1	Because you get to meet a lot of people
+q_HRFAQ	1	How do i claim for team lunch expenses.
+q_HRFAQ	1	How to update my name in records so it would get reflected everywhere
+q_HRFAQ	1	My family can bring me to Urgent Care
+q_HRFAQ	1	Josh and I thought that we'd take a chance and stop by for a visit
+q_HRFAQ	1	How much is the employee referral bonus
+q_HRFAQ	1	What fuel do airplanes use
+q_HRFAQ	1	What is Bill Gates of Microsoft E-mail address
+q_HRFAQ	1	I am worried that I messed up on a test
+q_HRFAQ	1	What makes salt
+q_HRFAQ	1	What is the coverage if I am at onsite or travel to onsite on a Long Term
+q_HRFAQ	1	What additional factors determine the Payment of Bonus Act (POBA) payout amount
+q_HRFAQ	1	I will take pictures when the hairdresser is done
+q_HRFAQ	1	Wont you tell me what my vacation day balance is
+q_HRFAQ	1	Friday at 730 sounds perfect
+q_HRFAQ	1	I told him our doorbell doesnt work
+q_HRFAQ	1	it looks like a fee was charged
+q_HRFAQ	1	The plumbing in my new apartment is not working
+q_HRFAQ	1	However, in our gym, we do have swim stations
+q_HRFAQ	1	Who is the director of intergovernmental affairs for the San Diego county
+q_HRFAQ	1	So we get cheese from cows and we get milk too
+q_HRFAQ	1	it would be nice if more communities could do that
+q_HRFAQ	1	Actually, I did it, but then it got lost
+q_HRFAQ	1	starting in the evening up until 16:06 in the afternoon Eastern Daylight Time
+q_HRFAQ	1	What is MIP
+q_HRFAQ	1	What is the name of a Greek god
+q_HRFAQ	1	I 'm voting to reelect Mayor Mulder
+q_HRFAQ	1	Possible symptoms of a distorted casing are vibration and noise short mechanical seal life short bearing life cracks in casing or damages in flange connection
+q_HRFAQ	1	five to seven years
+q_HRFAQ	1	Hello, this is Bob
+q_HRFAQ	1	No but I think Its pretty good
+q_HRFAQ	1	I usually get my Chinese food from Panda Express
+q_HRFAQ	1	Understood
+q_HRFAQ	1	What has been the most common Christian name of U.S. presidents
+q_HRFAQ	1	He might tell me to rest for a while
+q_HRFAQ	1	I need to change my priorities
+q_HRFAQ	1	What Hall of Fame pitcher started three World Series Games for the New York Yankees in 1962
+q_HRFAQ	1	I need to change designation and contact details on my business card. What is the process for the same
+q_HRFAQ	1	Who tramped through Florida looking for the Fountain of Youth
+q_HRFAQ	1	I cannot find my leave balance. Can you help.
+q_HRFAQ	1	Oh yeah when I do that it hurts a lot more
+q_HRFAQ	1	How's that
+q_HRFAQ	1	Hey, what's good with you
+q_HRFAQ	1	Now let me see a credit card please
+q_HRFAQ	1	Are you able to help me move subordinate employees to a different manager
+q_HRFAQ	1	i do not want to upload documents
+q_HRFAQ	1	What program do I need to run a .tbk file
+q_HRFAQ	1	why my workSchedule has been changed
+q_HRFAQ	1	3 to 4 months
+q_HRFAQ	1	Just a taxi, please
+q_HRFAQ	1	What are the names of all the U.S. Navy aircraft carriers
+q_HRFAQ	1	Open
+q_HRFAQ	1	Yeah I hear you
+q_HRFAQ	1	Who was the first king of England
+q_HRFAQ	1	The Orange Bowl is located in what city
+q_HRFAQ	1	Not too many, but you shouldn't have any trouble finding someone to share walks with
+q_HRFAQ	1	What state's home to the Buffalo Bill Historical Center
+q_HRFAQ	1	I think that I have something else really important to do on that day
+q_HRFAQ	1	Grades are important, but don't you think that gaining the knowledge is important, too
+q_HRFAQ	1	do we have life insurance
+q_HRFAQ	1	I thought you knew where we get off at
+q_HRFAQ	1	A flat costs you time and money
+q_HRFAQ	1	How much are these mangoes
+q_HRFAQ	1	That is awesome!
+q_HRFAQ	1	All right try parking here
+q_HRFAQ	1	I don't want to review my policy status
+q_HRFAQ	1	What film was based on the play Everybody Comes to Rick's
+q_HRFAQ	1	I always buy a lot of things for my family
+q_HRFAQ	1	I am not trying to add a driver
+q_HRFAQ	1	That cant be true
+q_HRFAQ	1	I missed the FCP timelines and due to this, there is a shortfall in my take home. Please help to rectify this.
+q_HRFAQ	1	Name the largest country in South America
+q_HRFAQ	1	I never had very many headaches before but the last few weeks I have been getting a lot of them
+q_HRFAQ	1	He wanted to take it home yesterday
+q_HRFAQ	1	I just can't say
+q_HRFAQ	1	hahaha
+q_HRFAQ	1	I don't want you to cancel my policy
+q_HRFAQ	1	43831
+q_HRFAQ	1	How do i change where my paycheck is sent automatically
+q_HRFAQ	1	I got them for forty
+q_HRFAQ	1	How do I get paid for overtime that I worked
+q_HRFAQ	1	how do i initiate a separation request
+q_HRFAQ	1	It had its surprises, but when all was said and done, it was a good trip
+q_HRFAQ	1	Possible symptoms of a distorted casing are vibration and noise, short mechanical seal life, short bearing life, cracks in casing, or damages in flange connection
+q_HRFAQ	1	Relocation amount has not got credited to my account
+q_HRFAQ	1	What is the history of yo-yos
+q_HRFAQ	1	Mary, how have you been
+q_HRFAQ	1	I learned right from wrong and they kept me out of trouble
+q_HRFAQ	1	country transfer of employee walkthrough
+q_HRFAQ	1	78
+q_HRFAQ	1	Name of my friend
+q_HRFAQ	1	Is there something wrong
+q_HRFAQ	1	About 90 of us World War II veterans got on the plane at 8 a.m
+q_HRFAQ	1	do we have supportive policy if one employee dies
+q_HRFAQ	1	Which one of the Great Lakes is entirely within U.S. territory
+q_HRFAQ	1	Proper procedure to open up the hiring process
+q_HRFAQ	1	I misplaced it somewhere
+q_HRFAQ	1	christopher.watts@enron.com
+q_HRFAQ	1	I do not want to change my payment options and never will
+q_HRFAQ	1	I will poke your eyes out
+q_HRFAQ	1	Why are they so fun for you
+q_HRFAQ	1	What is the most number of goals scored by a single team in an NHL hockey game
+q_HRFAQ	1	What is another name for nearsightedness
+q_HRFAQ	1	How do i change my position name in company records
+q_HRFAQ	1	Can you please tell me how many wives did Brigham Young have
+q_HRFAQ	1	What does an ashen-faced eidologist search out the existence of
+q_HRFAQ	1	what do i do if a coworker dies
+q_HRFAQ	1	It won't play a DVD
+q_HRFAQ	1	I'll just wrap this up for you
+q_HRFAQ	1	PPSN Letter
+q_HRFAQ	1	i don't want to see my summary
+q_HRFAQ	1	In what country is a stuck-out tongue a friendly greeting
+q_HRFAQ	1	Don't show me my damn schedule I don't want to see it
+q_HRFAQ	1	What is the process to initiate Job title change
+q_HRFAQ	1	my job title has changed, where should i update this
+q_HRFAQ	1	The highest bid is always the best bid
+q_HRFAQ	1	tickets
+q_HRFAQ	1	TSA "Transition of Services Agreement" letter (Dell > NTTD)
+q_HRFAQ	1	What European country abandoned postage stamps in 1923 because printing them cost more than their face value
+q_HRFAQ	1	Oh, no, you don't
+q_HRFAQ	1	Can you tell me if this jar is opened or closed
+q_HRFAQ	1	Can I get my PTO day count total
+q_HRFAQ	1	I assure you, that's not a problem
+q_HRFAQ	1	I need change for the machines
+q_HRFAQ	1	What format was VHS's main competition
+q_HRFAQ	1	Peaches make me break out but I dont have any other allergies
+q_HRFAQ	1	The letter you received includes a checklist that tells you how to store your food
+q_HRFAQ	1	So are cigarettes
+q_HRFAQ	1	What is my balance for taking sick days
+q_HRFAQ	1	Twinkle, twinkle, all the night
+q_HRFAQ	1	procure some chipotle for me
+q_HRFAQ	1	May I suggest a limo
+q_HRFAQ	1	Hey I had worked overtime last month but I haven't received it. Can you help
+q_HRFAQ	1	Ticket to acquire new digital products in remedy please
+q_HRFAQ	1	Where can I find examples of legal cases about the Individuals with Disabilities Education Act
+q_HRFAQ	1	Sometimes you can also bring a purse or handbag
+q_HRFAQ	1	Now do you have a question or two for me
+q_HRFAQ	1	It may not be the best choice for me, but I am considering it
+q_HRFAQ	1	When is next bonus cycle
+q_HRFAQ	1	just need you to help me acquire some additional software, it is a free trial
+q_HRFAQ	1	The Employment Development Office will call you for an interview
+q_HRFAQ	1	I had to make some updates and wanted to check my leave balance but I have no access to it. Can you help me in finding it
+q_HRFAQ	1	between 12 and 20 miles
+q_HRFAQ	1	OK, here it is
+q_HRFAQ	1	I think youll like it
+q_HRFAQ	1	What is the difference between a generator and an alternator
+q_HRFAQ	1	Where
+q_HRFAQ	1	What was Paul Bunyan's ox's name
+q_HRFAQ	1	Please provide me details about tobacco use in office
+q_HRFAQ	1	When was General Manuel Noriega ousted as the leader of Panama and turned over to U.S. authorities
+q_HRFAQ	1	I don't know how I am going to pay off all of my debt
+q_HRFAQ	1	Hello there
+q_HRFAQ	1	If you like, you can apply right now
+q_HRFAQ	1	Workers comp Letter "Riesgo laboral" (for Social Security usage)
+q_HRFAQ	1	Their appointment is at eleven oclock in the morning
+q_HRFAQ	1	18th
+q_HRFAQ	1	I dont always like the person Im on the date with
+q_HRFAQ	1	Enjoy driving your car
+q_HRFAQ	1	heh
+q_HRFAQ	1	Always remember that the night drop is here, and we really appreciate you returning your books for all to use
+q_HRFAQ	1	I can exchange it for you
+q_HRFAQ	1	If we have a major problem will you let us know
+q_HRFAQ	1	Who played the Ringo Kid in the 1939 film Stagecoach
+q_HRFAQ	1	I want to change my contact info. Please help.
+q_HRFAQ	1	what's going on with my ticket
+q_HRFAQ	1	the Dodge Caravans will do that
+q_HRFAQ	1	how to submint Stars on Navigator
+q_HRFAQ	1	Grandslam has incorporated both Amdocs and CSG billing systems into one
+q_HRFAQ	1	I checked it already
+q_HRFAQ	1	I want to give a spot award to a team member. What is the process for the same
+q_HRFAQ	1	What did the Confederate Constitution say about slavery
+q_HRFAQ	1	Kara, would you be interested in going to dinner again this Friday
+q_HRFAQ	1	Mr Sandals Ive worked here five years without seeing one cockroach
+q_HRFAQ	1	what are the specific requirements to get reimbursement for expenditures during company related
+q_HRFAQ	1	So, where do I go to exercise
+q_HRFAQ	1	Let me ask my manager when he thinks this dress will be on sale again
+q_HRFAQ	1	My number is 626-555-1739
+q_HRFAQ	1	Where can I get information concerning child custody files for the State of Utah
+q_HRFAQ	1	I am so sick of today
+q_HRFAQ	1	Fed to the rules and I hit the ground running
+q_HRFAQ	1	how do i change an employee's job code
+q_HRFAQ	1	That isn't right at all, many people would see it
+q_HRFAQ	1	I also have cars being repaired due to hail damage Is that not on the list of inputs
+q_HRFAQ	1	Regrettably Mr Sandals we accept only MasterCard or VISA
+q_HRFAQ	1	The medical contributions that are reflected are higher than I expected. Why is that
+q_HRFAQ	1	escalate
+q_HRFAQ	1	Do you ever listen to the radio
+q_HRFAQ	1	I dont have a problem with that
+q_HRFAQ	1	What is Jimmy Olsen's full name
+q_HRFAQ	1	I think the evolution will be interesting
+q_HRFAQ	1	What is the population of Mozambique
+q_HRFAQ	1	May I suggest our own hotel restaurant
+q_HRFAQ	1	What is the Peloponnesian League
+q_HRFAQ	1	How can I refer an employee
+q_HRFAQ	1	When was the Parthenon built
+q_HRFAQ	1	Name the soft drink that is `` number one in the sun
+q_HRFAQ	1	install the erp software package for me pls
+q_HRFAQ	1	450123.25
+q_HRFAQ	1	From now on I will always cover my crops so that they do not freeze
+q_HRFAQ	1	Our cousin went into labor and had her baby last week
+q_HRFAQ	1	Erzurum International Airport
+q_HRFAQ	1	Dont tell me what to do
+q_HRFAQ	1	What is the process to change workSchedule
+q_HRFAQ	1	Can I include my parents and parents- in-law details during the Hospitalisation
+q_HRFAQ	1	do you go to a lot of comedy movies
+q_HRFAQ	1	Like what
+q_HRFAQ	1	is there any audit for stars point
+q_HRFAQ	1	Maybe Ill wait until the next sale
+q_HRFAQ	1	Does it always close at six
+q_HRFAQ	1	Where I come from, it isn't impolite to ask
+q_HRFAQ	1	If we need to we can check for a flight with another carrier
+q_HRFAQ	1	Boy, Todd, that was one great movie you picked out
+q_HRFAQ	1	that's it
+q_HRFAQ	1	from 11 minutes per week less to about 40 minutes per week
+q_HRFAQ	1	One second, please, while I dig it out here
+q_HRFAQ	1	Is it dying, or is it dead
+q_HRFAQ	1	Monday night I was at a great concert
+q_HRFAQ	1	That's convenient
+q_HRFAQ	1	Its going to take smarter people than me to solve the problem
+q_HRFAQ	1	I didn't know I needed change
+q_HRFAQ	1	What is a nematode
+q_HRFAQ	1	Hes won
+q_HRFAQ	1	Is the project too hard for everyone to work on
+q_HRFAQ	1	I wont upload a document
+q_HRFAQ	1	Would
+q_HRFAQ	1	3.5
+q_HRFAQ	1	75021-3137
+q_HRFAQ	1	What store does Martha Stewart advertise for
+q_HRFAQ	1	Why did you get a job
+q_HRFAQ	1	The quote ID is NOT what I want to find
+q_HRFAQ	1	I'll come tomorrow with cash
+q_HRFAQ	1	was it a home that you've had for quite a few years
+q_HRFAQ	1	Doctor what is the best way to stay healthy
+q_HRFAQ	1	Both of them are necessary
+q_HRFAQ	1	I need to set up my paycheck to go directly to my checking account
+q_HRFAQ	1	She's a joy to have in my class
+q_HRFAQ	1	Steps to change the job title in navigator in case of change in job title
+q_HRFAQ	1	Do you have a large tent
+q_HRFAQ	1	Chennai International Airport
+q_HRFAQ	1	I think not
+q_HRFAQ	1	What is dry ice
+q_HRFAQ	1	My house is too far and Im really hungry
+q_HRFAQ	1	So are you still nervous
+q_HRFAQ	1	Many people have found very good jobs using our board or one online
+q_HRFAQ	1	mortgage letter to submit to bank for loan
+q_HRFAQ	1	Romania
+q_HRFAQ	1	Is it clogged
+q_HRFAQ	1	74711-1427
+q_HRFAQ	1	I didnt realize until after our date that they were nt my type
+q_HRFAQ	1	What state has the longest Great Lakes shoreline
+q_HRFAQ	1	Which of these are authors
+q_HRFAQ	1	That was good
+q_HRFAQ	1	40/100
+q_HRFAQ	1	Linda, this is Todd calling
+q_HRFAQ	1	Just make sure you go vote
+q_HRFAQ	1	That doesnt matter
+q_HRFAQ	1	I can come at about 2:30, this afternoon
+q_HRFAQ	1	Can you elaborate on the career progression
+q_HRFAQ	1	How do I check if my modem is v.9 compatible
+q_HRFAQ	1	I am not able to apply 5 days of sick leave in navigator.
+q_HRFAQ	1	No but I sure would like to
+q_HRFAQ	1	I ll probably stop by Saturday afternoon
+q_HRFAQ	1	do they get rubbery
+q_HRFAQ	1	A normal human pregnancy lasts how many months
+q_HRFAQ	1	What is the name of the medical condition in which a baby is born without a brain
+q_HRFAQ	1	That sounds like a good spot
+q_HRFAQ	1	tobacco use in the office. Is it legal or illegal
+q_HRFAQ	1	i placed an order for business cards
+q_HRFAQ	1	Please show me how to submit a fix to the direct deposit details on Navigator
+q_HRFAQ	1	uh-uh
+q_HRFAQ	1	Supposedly she and Lee are living together in Lee s apartment
+q_HRFAQ	1	Who sings Angel Eyes from the 80's
+q_HRFAQ	1	What is artificial intelligence
+q_HRFAQ	1	Can you tell me how many zeros are there in a trillion
+q_HRFAQ	1	north las vegas
+q_HRFAQ	1	I will talk to your father about that
+q_HRFAQ	1	One was right on the money
+q_HRFAQ	1	I was thinking about that movie Australia
+q_HRFAQ	1	Queen, nonsmoking
+q_HRFAQ	1	I see that you're pretty talented
+q_HRFAQ	1	Is the temperature sixties to eighties there too
+q_HRFAQ	1	thats three Jim Beams and three Perriers
+q_HRFAQ	1	Now that I think about it it really is sometimes
+q_HRFAQ	1	Thanks a lot
+q_HRFAQ	1	I drive a motorcycle
+q_HRFAQ	1	do you cook for yourself
+q_HRFAQ	1	do you want to go ahead
+q_HRFAQ	1	I apparently owe some fees, but I never got the bank statement
+q_HRFAQ	1	10 - yds
+q_HRFAQ	1	What is the wingspan of a condor
+q_HRFAQ	1	is there any link that I can  used for getting more details on the employee referral program
+q_HRFAQ	1	Malabo
+q_HRFAQ	1	I hate cigarettes
+q_HRFAQ	1	Let's take a look at our bill
+q_HRFAQ	1	How can I claim my Travel expenses
+q_HRFAQ	1	By how much will the California state gas tax rise by the year 2000
+q_HRFAQ	1	My brother won't be staying in the U.S
+q_HRFAQ	1	I want to find a new bedroom set
+q_HRFAQ	1	Wishing you all the happiness and love in the world!
+q_HRFAQ	1	Shortly afterwards the pilots radioed that their flight instruments were all malfunctioning
+q_HRFAQ	1	What is the trainee conversion process
+q_HRFAQ	1	How do i tweak my permanent account number in the NTT system
+q_HRFAQ	1	It was really hot driving over here
+q_HRFAQ	1	2341
+q_HRFAQ	1	King Shaka International Airport
+q_HRFAQ	1	How do I get more information about the NTT DATA 401(k) retirement plan
+q_HRFAQ	1	I agree I think that that would be perfect
+q_HRFAQ	1	When did Rococo painting and architecture flourish
+q_HRFAQ	1	is that good
+q_HRFAQ	1	do you think that that was in a way though good objectivity that that doesn 't really
+q_HRFAQ	1	could you tell me my host name
+q_HRFAQ	1	What do players try to do when the music stops in a game of musical chairs
+q_HRFAQ	1	I know a few extensions but I dont know all of them
+q_HRFAQ	1	do you have a Sam's Wholesale Warehouse up there
+q_HRFAQ	1	what do you mean
+q_HRFAQ	1	I bought some chow mein at the cafeteria
+q_HRFAQ	1	Promotion or Salary Increase Letter
+q_HRFAQ	1	what do i need to do to update my direct deposit information
+q_HRFAQ	1	Can you get me a W2 form, or when will it arrive this year
+q_HRFAQ	1	It must be tough because humor is so subjective
+q_HRFAQ	1	What century does Captain Video live in
+q_HRFAQ	1	I was also going to check on my IRA account while I was at the bank today
+q_HRFAQ	1	I need off work today
+q_HRFAQ	1	How do you determine if a computer monitor has an SVGA adapter
+q_HRFAQ	1	I am unable to log into Replicon
+q_HRFAQ	1	what do i need to do to get my timesheet rectified in regards to work schedule
+q_HRFAQ	1	Resource declined project due to location constraint, please allocate new resource
+q_HRFAQ	1	Can you see if there is a ticket before I recreate one
+q_HRFAQ	1	Everyone likes bacon and tomato sandwiches
+q_HRFAQ	1	What country has the most coastline
+q_HRFAQ	1	Online banking lets you access your account anywhere there is internet access
+q_HRFAQ	1	calling card ordering website
+q_HRFAQ	1	hold
+q_HRFAQ	1	If we can not accommodate you, perhaps another airline has some open seats to your destination
+q_HRFAQ	1	Hopefully I wont fail the test
+q_HRFAQ	1	I didnt bring my ID
+q_HRFAQ	1	I dont believe anything I dont see with my own eyes
+q_HRFAQ	1	Fine I can seat you at 700 on Tuesday if you would kindly give me your name
+q_HRFAQ	1	What film featured Shirley MacLaine as a prostitute and Jack Lemmon as a pimp
+q_HRFAQ	1	between $ 1,000 and $ 5,000
+q_HRFAQ	1	I can't get it to work
+q_HRFAQ	1	Do you all keep a budget
+q_HRFAQ	1	katy wants to apply, will she get any extra treatment for me submitting a referral
+q_HRFAQ	1	To be more specific, the free stuff, like soap, lotion, and shampoo
+q_HRFAQ	1	Where can I find out how many paid time off days I have left
+q_HRFAQ	1	What nationality is Ileana Cotrubas
+q_HRFAQ	1	I am looking for ways in which I could upload my identity details in the company record files.
+q_HRFAQ	1	are there any awards that i am eligible for
+q_HRFAQ	1	she needed the money so I would pay her
+q_HRFAQ	1	modifications to the hard line manager of employees in the automation practice
+q_HRFAQ	1	We could ask everyone what would be the best time for them
+q_HRFAQ	1	Ill buy it
+q_HRFAQ	1	I am not able to claim Medical Reimbursement. It is showing as 0 in Reimbursement eligibility table
+q_HRFAQ	1	I wonder if I should bring my gloves
+q_HRFAQ	1	It has swallowed up 140 ships and planes and more than 1000 people
+q_HRFAQ	1	I have requested for Business Card one month ago, till I have not received it. Let me know when will I get it
+q_HRFAQ	1	What does a resurrectionist steal
+q_HRFAQ	1	Travel and Expense team has sent back my expense report and not mentioned the reason for the same. Please clarify.
+q_HRFAQ	1	What is an auto-commentary
+q_HRFAQ	1	I just got to know that an employee has passed away and he is no more
+q_HRFAQ	1	the next few weeks
+q_HRFAQ	1	Your report card and transcripts will be held until you pay all fines, so always make sure that you do that
+q_HRFAQ	1	My team member, XYZ passed away yesterday. Please update HR Record.
+q_HRFAQ	1	My mortgage is asking me to provide a verification letter, what's the quickest way to get this from NTT
+q_HRFAQ	1	Thanks, but not right now
+q_HRFAQ	1	I need to use the Internet
+q_HRFAQ	1	how to calculate the Overtime salary
+q_HRFAQ	1	Okay, so on Friday, you can buy yourself something to eat
+q_HRFAQ	1	I got my car on there, I aint tryin to add another
+q_HRFAQ	1	Our room rates recently went up
+q_HRFAQ	1	Hello, Amelia
+q_HRFAQ	1	I went to the cafeteria and bought it
+q_HRFAQ	1	I was wondering can you tell me how many days could I take off
+q_HRFAQ	1	That's why I use it now
+q_HRFAQ	1	To be more specific the free stuff like soap lotion and shampoo
+q_HRFAQ	1	What is the notice period for Fix term contractor
+q_HRFAQ	1	He made everything so interesting that the time just flew by
+q_HRFAQ	1	Work schedule needs to be changed
+q_HRFAQ	1	450-125-9875
+q_HRFAQ	1	Maybe that is the problem
+q_HRFAQ	1	i don't want usb access
+q_HRFAQ	1	What comedian created a punch-drunk pugilist named Cauliflower McPugg
+q_HRFAQ	1	I dont want a music box thats full of fleas
+q_HRFAQ	1	Just got married, i need to add an amendment to my last name on navigator
+q_HRFAQ	1	In Waugh's `` A Handful of Dust, '' what does the mad old man force the hero to do every afternoon
+q_HRFAQ	1	We're having a big sale next weekend, but nothing today
+q_HRFAQ	1	I am going on long leave and do not have sufficient leave balance. Can I get advance leave quota
+q_HRFAQ	1	there is a digital product that has an evaluation copy, can you run the installer for me please
+q_HRFAQ	1	What 1981 Candice Bergen-Jacqueline Bisset movie was a remake of 1943's Old Acquaintance
+q_HRFAQ	1	I'll e-mail you when it's ready
+q_HRFAQ	1	1501
+q_HRFAQ	1	I apologize, but I 'm getting off the phone now
+q_HRFAQ	1	The bigger the better I think
+q_HRFAQ	1	I think it's okay for men to use makeup
+q_HRFAQ	1	I am kind of busy right now, but maybe later next week I could stop by
+q_HRFAQ	1	How does NTT decide who moves up in the corporate structure around experience based promotions
+q_HRFAQ	1	How many people die of tuberculosis yearly
+q_HRFAQ	1	To get the most caffeine, what soda should I drink
+q_HRFAQ	1	an employee has moved on to the afterlife, what should i do
+q_HRFAQ	1	I am going to send you to a pulmonary specialist who can run tests on you for asthma
+q_HRFAQ	1	No although Ive heard great things about both of them
+q_HRFAQ	1	Reward points
+q_HRFAQ	1	Is that all there is to it
+q_HRFAQ	1	I work here
+q_HRFAQ	1	I was right there
+q_HRFAQ	1	I will be explaining them all to you, and you can ask questions as we go
+q_HRFAQ	1	starting 19 o'clock in the afternoon on yesterday through 13 : 22AM CDT December 16
+q_HRFAQ	1	Procedure for raising RR for country transfer
+q_HRFAQ	1	Where is Belize located
+q_HRFAQ	1	Everyone is doing great
+q_HRFAQ	1	Is that how it's worded
+q_HRFAQ	1	I didn't understand you
+q_HRFAQ	1	do you eat the fish that you catch
+q_HRFAQ	1	Would that be so bad
+q_HRFAQ	1	I'm not looking for my quote ID
+q_HRFAQ	1	When did Gothic art and architecture flourish
+q_HRFAQ	1	Smith Street
+q_HRFAQ	1	can you please give more information regarding on-call policy
+q_HRFAQ	1	No, I just took a quick look
+q_HRFAQ	1	What is ecommerce
+q_HRFAQ	1	The food there is actually pretty good
+q_HRFAQ	1	I sent all my children to prep school
+q_HRFAQ	1	columbus is the capital of ohio
+q_HRFAQ	1	death of a coworker walkthrough
+q_HRFAQ	1	What is Linux
+q_HRFAQ	1	Ive always wanted to be a police officer
+q_HRFAQ	1	What is typhoid fever
+q_HRFAQ	1	Just press into it gently with your thumb
+q_HRFAQ	1	Really, where did you get it
+q_HRFAQ	1	Mr. Wallace, we were very pleased with your interview and would like to offer you the position
+q_HRFAQ	1	That wont be a problem
+q_HRFAQ	1	i need some info regarding a ticket i submitted recently
+q_HRFAQ	1	revision to the peer tree in terms of changing managers
+q_HRFAQ	1	whether HR team can change my name in navigator
+q_HRFAQ	1	I want to apply Amex card. please guide.
+q_HRFAQ	1	When to initiate request for address change
+q_HRFAQ	1	Bye for now
+q_HRFAQ	1	I have another savings account open already
+q_HRFAQ	1	It sounds like its going to be a lot of fun
+q_HRFAQ	1	Can sick day requests be made in advance
+q_HRFAQ	1	I don't have questions about my policy status
+q_HRFAQ	1	What does the River Seine empty into
+q_HRFAQ	1	I dont need my account summary thats not what Im trying to do
+q_HRFAQ	1	did a couple of people sort of gradually sort of assume sort of a moderator role in the trial
+q_HRFAQ	1	I am a new joiner, current joined at Bangalore.  I would want to relocate to Chennai.  Please explain process
+q_HRFAQ	1	how can i claim my expenses
+q_HRFAQ	1	do you think that should be changed
+q_HRFAQ	1	Is there a logbook that shows when each region of the world receives their paycheck each month
+q_HRFAQ	1	Where is the Taj Mahal
+q_HRFAQ	1	I am looking for a job myself
+q_HRFAQ	1	The best thing to do is just stay home
+q_HRFAQ	1	But, sir, our souvenir shop carries all those items
+q_HRFAQ	1	editing my social security number in the system
+q_HRFAQ	1	ticket status details
+q_HRFAQ	1	NTTDATA pay cycle details, annual or biannual
+q_HRFAQ	1	That is a special coconut ginger chicken with rice dish
+q_HRFAQ	1	I dont want to upload any documents
+q_HRFAQ	1	43857
+q_HRFAQ	1	Malé
+q_HRFAQ	1	What were you saying
+q_HRFAQ	1	You can't finish in less than three days
+q_HRFAQ	1	How much vacation do I still have for the remainder of the year
+q_HRFAQ	1	How big is pretty big
+q_HRFAQ	1	It comes with an ice maker water dispenser and there is a lot of room inside
+q_HRFAQ	1	you deserve this credit
+q_HRFAQ	1	It's a pleasure to assist you
+q_HRFAQ	1	What are the living conditions in Cuba
+q_HRFAQ	1	do you want to start
+q_HRFAQ	1	Perhaps you'd be interested in red roses
+q_HRFAQ	1	So you plan on washing your clothes here from now on
+q_HRFAQ	1	No thank you
+q_HRFAQ	1	I am running out of Business Card, please share requisition form.
+q_HRFAQ	1	Can you tell me how many revolutions does a standard LP make in three minutes
+q_HRFAQ	1	I want to change rooms immediately plus a refund for tonight
+q_HRFAQ	1	That's what I 'm here for, sir
+q_HRFAQ	1	what are the travel details for NTT Data
+q_HRFAQ	1	Is the restaurant opened or closed
+q_HRFAQ	1	Do you enjoy it
+q_HRFAQ	1	So if I want to buy a house, I might not be able to do so
+q_HRFAQ	1	If there are bacteria in your urine, it could mean an infection somewhere
+q_HRFAQ	1	Do I have a lot of personal days accumulated
+q_HRFAQ	1	It's been ages since we had a chance to visit with you
+q_HRFAQ	1	Name the lawyer for Randy Craft
+q_HRFAQ	1	If I have large bills, should I break them while I am waiting
+q_HRFAQ	1	Its because they are growing older
+q_HRFAQ	1	I want to update my last name.
+q_HRFAQ	1	my po box is something different now than it used to be within navigator, how can i update this as fast as possible
+q_HRFAQ	1	That won't happen again, I 'm sorry
+q_HRFAQ	1	my teams working hours need to be updated, how do i do this
+q_HRFAQ	1	Get a doctor here, immediately
+q_HRFAQ	1	Oh, it looks like you bought this more than 30 days ago
+q_HRFAQ	1	lets go and get something from the cafeteria
+q_HRFAQ	1	we're expecting a baby this summer
+q_HRFAQ	1	employee referral program details
+q_HRFAQ	1	A good real estate lawyer might cost 400 an hour
+q_HRFAQ	1	change request for my address
+q_HRFAQ	1	What does RCA stand for
+q_HRFAQ	1	Oh, that's true
+q_HRFAQ	1	In What city or state do the most gay men live in
+q_HRFAQ	1	They can help you find the best price
+q_HRFAQ	1	Midnight is zero and when you put the minutes in make sure that you show them with a dot followed by the minutes
+q_HRFAQ	1	Your office called and said that the owners had made a counteroffer to my offer to purchase their house
+q_HRFAQ	1	Did you embroidery the pattern and then quilt it yourself
+q_HRFAQ	1	When did Lucelly Garcia, a former ambassador of Columbia to Honduras, die
+q_HRFAQ	1	I've been trying to contact the team for my overtime issues. Please help me in resolving the same.
+q_HRFAQ	1	Isnt learning a foreign language hard
+q_HRFAQ	1	Okie-dokie
+q_HRFAQ	1	Who made the rotary engine automobile
+q_HRFAQ	1	I need to stand behind this shield
+q_HRFAQ	1	have you always lived here in Dallas
+q_HRFAQ	1	But if it's their mistake, can I get an extension on my bill payment
+q_HRFAQ	1	I mean good-smelling
+q_HRFAQ	1	When can I receive my bonus incentives
+q_HRFAQ	1	I can show you where to find them, if you'd like
+q_HRFAQ	1	Where did Dylan Thomas die
+q_HRFAQ	1	8128
+q_HRFAQ	1	how should i or my supervisor update my employee role in the company on the navigator and skype backend
+q_HRFAQ	1	some companies give employees a cash injection on their birthday, does NTT do anything similar
+q_HRFAQ	1	Why did David Koresh ask the FBI for a word processor
+q_HRFAQ	1	What's the International Lawn Tennis Challenge Trophy usually called
+q_HRFAQ	1	1.010101E+31
+q_HRFAQ	1	That time is okay with me
+q_HRFAQ	1	What soft drink held a national flavor poll in 1967
+q_HRFAQ	1	Does NTTs annual salary cycle differ from other companies
+q_HRFAQ	1	tobacco consumption in office
+q_HRFAQ	1	thirty minute is fine
+q_HRFAQ	1	17110
+q_HRFAQ	1	A pharmacist might be able to help you if your home remedies don't work
+q_HRFAQ	1	Which police department made the all-time biggest cocaine bust in Ventura County
+q_HRFAQ	1	uninstall some software please
+q_HRFAQ	1	I cant let you do that
+q_HRFAQ	1	My job title is incorrect, how do i request to correct it
+q_HRFAQ	1	Doing something relaxing before I go to sleep sounds like a plan
+q_HRFAQ	1	what are the specific requiremnets to receive a promotion
+q_HRFAQ	1	I found it in today s apartment ads
+q_HRFAQ	1	Did you work
+q_HRFAQ	1	for some people that's just that's out of the question
+q_HRFAQ	1	No not at all
+q_HRFAQ	1	Haunted houses would be a perfect outing for a rainy day
+q_HRFAQ	1	What are the top five oil-producing countries in the world
+q_HRFAQ	1	Hey sorry but I dont want to see my status anymore
+q_HRFAQ	1	I feel like I 'm craving a salad
+q_HRFAQ	1	Im doing a little bit of shopping
+q_HRFAQ	1	How tall was the animated King Kong
+q_HRFAQ	1	Which of the following men was not married to Rita Hayworth
+q_HRFAQ	1	It's such a hot day today, isn't it
+q_HRFAQ	1	How much PTO is still available for me to take
+q_HRFAQ	1	I really wanted to go
+q_HRFAQ	1	If you absolutely cant wait come over here and borrow a key
+q_HRFAQ	1	Replicon error not showing my overtime on/in in my time sheet
+q_HRFAQ	1	Should we invite the whole committee or should we just have the sub-committee there
+q_HRFAQ	1	who will bear the cost of my air ticket for official travel
+q_HRFAQ	1	What TV talk-show host lends his name to a line of men's clothing
+q_HRFAQ	1	I cant get going on my computer until I get a broadband hookup
+q_HRFAQ	1	Who kept the most famous diary in the English language
+q_HRFAQ	1	between hundreds of meters and several kilometers
+q_HRFAQ	1	200 pounds
+q_HRFAQ	1	I am concerned about landing in the water
+q_HRFAQ	1	I look forward to working with you
+q_HRFAQ	1	I don't want to see my payment schedule
+q_HRFAQ	1	Only 2995
+q_HRFAQ	1	I have two vehicles2009 BMW and 2012 Acura MDX
+q_HRFAQ	1	can you help me correct my cotact information in navigator records
+q_HRFAQ	1	What U.S. state is Dixville Notch in
+q_HRFAQ	1	show me your tits
+q_HRFAQ	1	The layout is okay
+q_HRFAQ	1	I know it would be horrible if it rained and it was hot outside
+q_HRFAQ	1	Two thousand would be fine
+q_HRFAQ	1	Come on inside and we'll discuss the price
+q_HRFAQ	1	Not really but you re paying for quality
+q_HRFAQ	1	I do NOT want to add my son to the policy
+q_HRFAQ	1	Please modify my home street
+q_HRFAQ	1	Besides its a lot cheaper to wash clothes this way
+q_HRFAQ	1	Should I expect any side effects
+q_HRFAQ	1	I didnt see one person in that whole building who was nt the same race as the manager
+q_HRFAQ	1	I promise Ill wake up in five minutes
+q_HRFAQ	1	I didn't quite hear you, do you mind repeating that
+q_HRFAQ	1	definitely do that
+q_HRFAQ	1	garden grove
+q_HRFAQ	1	How do I get into my repository
+q_HRFAQ	1	I recognize your great work
+q_HRFAQ	1	between 100 percent and 138
+q_HRFAQ	1	When information the employee is requesting is available on the employee portal
+q_HRFAQ	1	I need to recruit another resource, please show me the proper steps
+q_HRFAQ	1	In My Antonia, how is Mr. Shimerda out of place on the farm
+q_HRFAQ	1	Great Jones Street
+q_HRFAQ	1	What is T&E policy
+q_HRFAQ	1	Who is the superstar in rent-a-cars
+q_HRFAQ	1	thats my final offer
+q_HRFAQ	1	there
+q_HRFAQ	1	between 200 and 300
+q_HRFAQ	1	Am I eligible for Bonus Incentives
+q_HRFAQ	1	What do insects do through their spiracles
+q_HRFAQ	1	just the one
+q_HRFAQ	1	Okay so on Friday you can buy yourself something to eat
+q_HRFAQ	1	What is the Pennsylvania state income tax rate
+q_HRFAQ	1	Estrella road
+q_HRFAQ	1	Ill get my running gear and then Im out of here
+q_HRFAQ	1	I need to change my SID in my profile on navigator
+q_HRFAQ	1	Then you show your little light
+q_HRFAQ	1	I can't quit, because I 'm making a good salary
+q_HRFAQ	1	47th
+q_HRFAQ	1	I dont want to remove a vehicle
+q_HRFAQ	1	You should go talk to her
+q_HRFAQ	1	Can you please tell me how many syllables are there in a line of hendecasyllabic poetry
+q_HRFAQ	1	Could you please tell me how many days of paternity leave I have
+q_HRFAQ	1	That's really not like him
+q_HRFAQ	1	Where is
+q_HRFAQ	1	between 7 and 20 attoseconds
+q_HRFAQ	1	Me too but he doesnt seem worthy enough to be in such a position
+q_HRFAQ	1	have you done any jogging
+q_HRFAQ	1	Goodbye and thank you for shopping here
+q_HRFAQ	1	What shampoo prevents eczema, seborrhea, and psoriasis
+q_HRFAQ	1	i want o install word on mycomputer
+q_HRFAQ	1	The most important thing you can do is keep your seatbelt fastened when the captain asks you to
+q_HRFAQ	1	Tell me again how many sick days I have
+q_HRFAQ	1	I'm not here to add a driver
+q_HRFAQ	1	I have not yet enrolled for voluntary top up policy coverage, am I required to enroll my dependents under the current renewal
+q_HRFAQ	1	there are a lot of npcs in video games
+q_HRFAQ	1	Food costs money
+q_HRFAQ	1	What was Thatcher's first name
+q_HRFAQ	1	In order to open these accounts, you need to deposit a minimum of $ 50
+q_HRFAQ	1	My contact email in the backend is still listed as my yahoo account, not my @ntt one, who should i contact to update that
+q_HRFAQ	1	certainly
+q_HRFAQ	1	I didnt really like it all that much
+q_HRFAQ	1	I would really like to bring my friend Jake, if that would be OK
+q_HRFAQ	1	It's street parking only
+q_HRFAQ	1	What s the rush
+q_HRFAQ	1	Name the only extant trilogy of classical Greek plays
+q_HRFAQ	1	Oh no you dont
+q_HRFAQ	1	Their bid is a reasonable start
+q_HRFAQ	1	Whose acceptance speech of more than 3 minutes prompted a time limit on Academy Award thank-yous
+q_HRFAQ	1	Honestly, I think just getting together with friends is the best celebration
+q_HRFAQ	1	what analyzes does the medical subscription contain
+q_HRFAQ	1	What sport features slotbacks, tailbacks, and touchbacks
+q_HRFAQ	1	How do I change my address in Navigator
+q_HRFAQ	1	I had a ham sandwich with mayonnaise for lunch
+q_HRFAQ	1	Tuesday 8:30
+q_HRFAQ	1	I think Its the ice cream
+q_HRFAQ	1	options
+q_HRFAQ	1	What European city do Nicois live in
+q_HRFAQ	1	Do you have any grade wise plan in case of death of any employee For their family
+q_HRFAQ	1	OK, now that we 've gotten those straightened out, let's total the score
+q_HRFAQ	1	from 13 months to 45
+q_HRFAQ	1	To start, I have a question about my policy
+q_HRFAQ	1	I need help turning them on
+q_HRFAQ	1	September 13 through 15
+q_HRFAQ	1	What would be the process If employee haven't received the Medical cards yet
+q_HRFAQ	1	My neighbor bought a hybrid car
+q_HRFAQ	1	msagel@home.com
+q_HRFAQ	1	408-725-4310
+q_HRFAQ	1	How many boys play the game in Winslow Homer's 1872 painting Snap the Whip
+q_HRFAQ	1	What famous meat company went out of business because it became known that the underworld had been selling them kangaroo meat
+q_HRFAQ	1	i never said i wanted to change my payment option
+q_HRFAQ	1	Maybe we could pack the frozen food into the ice chest
+q_HRFAQ	1	A cop issued me a ticket today
+q_HRFAQ	1	thats exactly how I used to feel
+q_HRFAQ	1	What was another name for East Germany
+q_HRFAQ	1	Have a nice morning
+q_HRFAQ	1	Authority to reach out to in case of an employee's demise
+q_HRFAQ	1	Start again
+q_HRFAQ	1	I'd have to say Babe Ruth
+q_HRFAQ	1	Welcome to your first martial arts lesson
+q_HRFAQ	1	Oh my gosh
+q_HRFAQ	1	How can I refer someone for a job in Malaysia
+q_HRFAQ	1	I will help you find the perfect house for you
+q_HRFAQ	1	I was thinking of holding the company retreat in the mountains
+q_HRFAQ	1	i dont want to add more cars
+q_HRFAQ	1	Boy Todd that was one great movie you picked out
+q_HRFAQ	1	I am not able to view Payroll calendars as mentioned in the path, please help
+q_HRFAQ	1	Do they have a policy where they counsel people if they come back positive
+q_HRFAQ	1	I really want a burrito
+q_HRFAQ	1	The toilette isn't working
+q_HRFAQ	1	Name of scholar on whose literal translations from the Chinese and Japanese Ezra Pound depended
+q_HRFAQ	1	information technology security contacted me and told me to remove/uninstall this software called automation anywhere from my computer
+q_HRFAQ	1	think of it this way
+q_HRFAQ	1	I want to take the day off
+q_HRFAQ	1	Where can I get piano music for the Jamiroquai song Everyday for the midi
+q_HRFAQ	1	Im surprised you have nt gotten sick
+q_HRFAQ	1	My wife and I want to go on vacation so I need to know how many PTO days I have
+q_HRFAQ	1	If you're hungry, then cook something
+q_HRFAQ	1	I don't want to add anyone
+q_HRFAQ	1	I sometimes run late in the morning and cant make breakfast
+q_HRFAQ	1	What is a firewall
+q_HRFAQ	1	How many rings are there on a five-zone archery target
+q_HRFAQ	1	Can i submit a change request to issue a name change
+q_HRFAQ	1	have you ever been in a situation where you were drug tested
+q_HRFAQ	1	how should i create a resource request
+q_HRFAQ	1	58215
+q_HRFAQ	1	unable to select the shift premium when submitting the time entries
+q_HRFAQ	1	What is the difference between ninjitsu and kung fu
+q_HRFAQ	1	7216J
+q_HRFAQ	1	1784
+q_HRFAQ	1	That's strange my dad loves eating meat
+q_HRFAQ	1	Where are diamonds mined
+q_HRFAQ	1	Slovakia
+q_HRFAQ	1	What were Babe Ruth's Christian names
+q_HRFAQ	1	What kind of nuts are used in marzipan
+q_HRFAQ	1	What is the process to avail Tuition benefits
+q_HRFAQ	1	I was recently on leave and now I am trying to enter my time in SAP and cannot get in the system. What should I do
+q_HRFAQ	1	I do all my own work
+q_HRFAQ	1	Is nt learning a foreign language hard
+q_HRFAQ	1	I'm not wanting to remove a driver
+q_HRFAQ	1	So far, so good
+q_HRFAQ	1	Payroll calendar
+q_HRFAQ	1	They also ate with their fingers
+q_HRFAQ	1	do you think they 'll kind of push into the teaching field eventually
+q_HRFAQ	1	But dont take too long
+q_HRFAQ	1	Except for the rash, I feel fine
+q_HRFAQ	1	Is there anything else at the EDD offices to help me with my job search
+q_HRFAQ	1	Shop around until you find something you like
+q_HRFAQ	1	What heavyweight boxer was known as The Wild Bull of the Pampas
+q_HRFAQ	1	I would be happy to help you
+q_HRFAQ	1	I wouldn't do that if I were you
+q_HRFAQ	1	Good luck with your interview
+q_HRFAQ	1	Who was the first American poet to win the Nobel Prize for literature, in 1948
+q_HRFAQ	1	What line of luggage is named after a famous American flier
+q_HRFAQ	1	Up above the world so high
+q_HRFAQ	1	how to update my surname
+q_HRFAQ	1	I dont want to have to register for an account online
+q_HRFAQ	1	how may vacation days do I have
+q_HRFAQ	1	56708-8423
+q_HRFAQ	1	What is the coverage under the base policy
+q_HRFAQ	1	What is the payroll cut off date to submit inputs
+q_HRFAQ	1	Like what exactly
+q_HRFAQ	1	She seems to really enjoy music getting pedicures and going to the movies
+q_HRFAQ	1	I won't harvest until September
+q_HRFAQ	1	After my Employee Conversion from Trainee my designation in Navigator shows Services IT DEV. Program Senior Associate II
+q_HRFAQ	1	For sure another day
+q_HRFAQ	1	I owe fees, but a bank statement never came in the mail about it
+q_HRFAQ	1	In Outlook where is the junk email folder
+q_HRFAQ	1	What sport do you shag flies in
+q_HRFAQ	1	It doesn't matter, as we do not have any children
+q_HRFAQ	1	What is the difference between molecules and compounds
+q_HRFAQ	1	Oh it looks like you bought this more than 30 days ago
+q_HRFAQ	1	I know a few extensions but I don't know all of them
+q_HRFAQ	1	What does an irate car owner call iron oxide
+q_HRFAQ	1	That would be a good place to look
+q_HRFAQ	1	I 'm a tall guy
+q_HRFAQ	1	I plan to but what day is the election
+q_HRFAQ	1	Criteria for updating PAN details.
+q_HRFAQ	1	I 'm returning a cellphone
+q_HRFAQ	1	what are the requirements to submit my travel expenses
+q_HRFAQ	1	What is website of the International Court of Justice
+q_HRFAQ	1	When was the slinky invented
+q_HRFAQ	1	Did this just come on suddenly
+q_HRFAQ	1	where will I get Sodexo
+q_HRFAQ	1	Only shooting stars break the mold
+q_HRFAQ	1	If someone wants to get in touch with me, i need to update the relevant contact information on the backend so that it is reflected across company software
+q_HRFAQ	1	CNN's first broadcast occurred on what date
+q_HRFAQ	1	I'll bring another key to try
+q_HRFAQ	1	I am sorry but I cant stay until the end of class
+q_HRFAQ	1	One moment
+q_HRFAQ	1	My bank account has changed. Do I need to inform HR or Payroll
+q_HRFAQ	1	That's nice, have you been to the movies lately
+q_HRFAQ	1	That's no problem
+q_HRFAQ	1	how are the other ones
+q_HRFAQ	1	That doesnt make any sense
+q_HRFAQ	1	How do chickens have baby chicks
+q_HRFAQ	1	The bus info shouldn't be too hard to find
+q_HRFAQ	1	Im in a ranch
+q_HRFAQ	1	If you can wait until next weekend, you can save some money
+q_HRFAQ	1	Guide to update my phone number
+q_HRFAQ	1	Great do you need directions to my office
+q_HRFAQ	1	How do I find out how many days I still have in my PTO total
+q_HRFAQ	1	Im happy that you find this apartment so appealing
+q_HRFAQ	1	I have to agree with you on that statement
+q_HRFAQ	1	Where is Natchitoches, Louisiana
+q_HRFAQ	1	Where can an hrbp go to change a hard line manager
+q_HRFAQ	1	I need an invitation letter for Romania for my business trip
+q_HRFAQ	1	I cant believe Obama is our President
+q_HRFAQ	1	Does that make a big difference
+q_HRFAQ	1	212-715-5608
+q_HRFAQ	1	Sir, let me hit the delete button, and your reservation will be cancelled
+q_HRFAQ	1	If we need to, we can check for a flight with another carrier
+q_HRFAQ	1	What army's motto is Blood and Fire
+q_HRFAQ	1	Do I talk to you about grabbing tickets for the carnival
+q_HRFAQ	1	I wish I could help you, but it's store policy
+q_HRFAQ	1	Because you'll have an accident
+q_HRFAQ	1	I don't need help removing a car
+q_HRFAQ	1	I am leaving NTT, when can I expect my P45
+q_HRFAQ	1	I apologize for the last message sent in error
+q_HRFAQ	1	Each of my coworkers is getting paid more than me for less work, I want a salary jump because i deserve it
+q_HRFAQ	1	Would you like anything in particular
+q_HRFAQ	1	Business cards
+q_HRFAQ	1	What should I do at this point
+q_HRFAQ	1	I'll take the escalator
+q_HRFAQ	1	Forgive me can you say that again
+q_HRFAQ	1	Its boring
+q_HRFAQ	1	All I had was a sandwich chips and soda
+q_HRFAQ	1	I didn't bring my ID
+q_HRFAQ	1	Remove downloadable content from IPsoft after 2 weeks please
+q_HRFAQ	1	How can I get someone's email address
+q_HRFAQ	1	What would make this apartment better for you
+q_HRFAQ	1	How do I change the Hard Line Manager for my direct reports in Navigator/HR records
+q_HRFAQ	1	Don't do that again
+q_HRFAQ	1	How far in advance do i have to book travel to be in alignment with out expense policy
+q_HRFAQ	1	voting is easy
+q_HRFAQ	1	81252-5428
+q_HRFAQ	1	Then I did my laundry
+q_HRFAQ	1	Perhaps you'd be interested in a store credit card
+q_HRFAQ	1	I guarantee you that our little friends wont be back
+q_HRFAQ	1	Aisle A is where youll find all the produce
+q_HRFAQ	1	What do you do when your mouse isn't working as fast as it's supposed to
+q_HRFAQ	1	I end up buying a lot of stuff for the kids in my family
+q_HRFAQ	1	I am unable to find the global payroll calendar.Please assist me.
+q_HRFAQ	1	Rockstar workers, do they get any extra perks
+q_HRFAQ	1	What U.S. university boasts the largest library
+q_HRFAQ	1	Arrivals are downstairs
+q_HRFAQ	1	i dont have a need to change my payment options
+q_HRFAQ	1	Something happened to my window
+q_HRFAQ	1	Outlets have cheap cashmere sweaters
+q_HRFAQ	1	Who liberated 19th century Sicily and Naples
+q_HRFAQ	1	I hate to tell you but Its street parking
+q_HRFAQ	1	resume
+q_HRFAQ	1	If I have entered future dated time off for vacation, where can I see the balance of my future enteries
+q_HRFAQ	1	When did the Chernobyl nuclear accident occur
+q_HRFAQ	1	Will you please hold while I transfer you to my supervisor
+q_HRFAQ	1	I may go grocery shopping later
+q_HRFAQ	1	Can you please tell me how many pairs of wings does a tsetse fly have
+q_HRFAQ	1	OK just tell me what day would be best for your appointment
+q_HRFAQ	1	The return bus will leave the campground at 5:00 p.m
+q_HRFAQ	1	Can you tell me how to qualify for a bonus
+q_HRFAQ	1	Dont lie in the sun too long
+q_HRFAQ	1	how to apply for social insurance certification
+q_HRFAQ	1	Dont bet on it
+q_HRFAQ	1	thats strange
+q_HRFAQ	1	how to submit separation request
+q_HRFAQ	1	Request for form and process to get gratuity processed
+q_HRFAQ	1	Can you uninstall McAfee anti virus because its basically a virus on its own
+q_HRFAQ	1	spot award worth what
+q_HRFAQ	1	I am trying to find a new job
+q_HRFAQ	1	yeet
+q_HRFAQ	1	How do you get to the top of the Eiffel Tower
+q_HRFAQ	1	What is the salary range according to grades
+q_HRFAQ	1	what is servicetag
+q_HRFAQ	1	My friend Dave has two small dogs in his apartment
+q_HRFAQ	1	I toss and turn all night
+q_HRFAQ	1	why should I choose a different password
+q_HRFAQ	1	didn't he have a woman
+q_HRFAQ	1	Im determined now to make more personal bonds with others
+q_HRFAQ	1	I'll give you an afternoon flight
+q_HRFAQ	1	What does the name Gina mean
+q_HRFAQ	1	I am counting on being able to get a good job
+q_HRFAQ	1	I am confused a bit but I am sure that I can figure it out
+q_HRFAQ	1	Sure ask me anything you need to know
+q_HRFAQ	1	How many miles is it from Frankfurt, Germany to Salzburg, Austria
+q_HRFAQ	1	Sir please calm down
+q_HRFAQ	1	Both places are usually crowded with natives and tourists
+q_HRFAQ	1	How many Leos have been Pope
+q_HRFAQ	1	where to submit a ticket for chrome to be installed asap
+q_HRFAQ	1	Look at the sign on the front of the van to tell where each van is headed
+q_HRFAQ	1	Okay, but let's hike in town
+q_HRFAQ	1	Can we update any bank account details or it should only be account opened through the company
+q_HRFAQ	1	one third
+q_HRFAQ	1	they just need to find it
+q_HRFAQ	1	Where is the oldest living thing on earth
+q_HRFAQ	1	The stars look so much closer after it rains
+q_HRFAQ	1	thats good because I dont want to live under people with loud feet
+q_HRFAQ	1	The biggest used car lot is CarMax
+q_HRFAQ	1	I have to modify payment frequency
+q_HRFAQ	1	I'm switching to working nights. What do I need to do
+q_HRFAQ	1	What are Cushman and Wakefield known for
+q_HRFAQ	1	The Salary credited for this month seems to be less, I am not very happy about it. Request you to look into it
+q_HRFAQ	1	Name of the powerful white trader in Conrad s Heart of Darkness
+q_HRFAQ	1	How do I get "Night shift allowance" processed
+q_HRFAQ	1	Who is the mayor of Marbella
+q_HRFAQ	1	does you husband
+q_HRFAQ	1	No worries
+q_HRFAQ	1	who are we
+q_HRFAQ	1	install 7-Zip
+q_HRFAQ	1	If you get caught omitting anything, you will be fined and possibly detained
+q_HRFAQ	1	I am not able to login to concur to claim my expenses.
+q_HRFAQ	1	In what year was the first patent for the pulltab opener on cans obtained
+q_HRFAQ	1	Run the workflow bpnfindusername
+q_HRFAQ	1	The next cockroach I see will be number ten
+q_HRFAQ	1	please change my title
+q_HRFAQ	1	Don't want to register today so don't do it
+q_HRFAQ	1	I dont want to remove a driver please dont
+q_HRFAQ	1	How many CDs has Garth Brooks sold
+q_HRFAQ	1	It's $ 1000 a month
+q_HRFAQ	1	It looks like blood
+q_HRFAQ	1	How do they type Chinese characters on a keyboard
+q_HRFAQ	1	She cries a lot at night though
+q_HRFAQ	1	thats fine but Im not paying for it
+q_HRFAQ	1	What was the top box office movie in April 1998
+q_HRFAQ	1	Is that what you do
+q_HRFAQ	1	What did the crocodile swallow in Peter Pan
+q_HRFAQ	1	Personally I would consider making one more offer but it is up to you to decide what to do
+q_HRFAQ	1	Attestation Letter
+q_HRFAQ	1	I'll check for you
+q_HRFAQ	1	servicetag
+q_HRFAQ	1	Maybe you just need to go to the bathroom
+q_HRFAQ	1	Describe the Long March
+q_HRFAQ	1	Who will bear the premium
+q_HRFAQ	1	I wouldnt suggest giving money to them
+q_HRFAQ	1	The total will be 3242
+q_HRFAQ	1	For the past week my cable hasnt been working
+q_HRFAQ	1	Wishing you all the best on your anniversary day!
+q_HRFAQ	1	I am looking for the global payroll calendar. Can you help me.
+q_HRFAQ	1	Tell me, what kind of sandwich did you decide to get
+q_HRFAQ	1	I need to take home some souvenirs
+q_HRFAQ	1	When was the battle of the Somme fought
+q_HRFAQ	1	Is there any extra care that I should take with your clothes
+q_HRFAQ	1	My dad finally got to retire and is enjoying his leisure time
+q_HRFAQ	1	A broken chain lies at her feet
+q_HRFAQ	1	in fact I stock the same part
+q_HRFAQ	1	I just changed my first name, what is the proper location to submit an update
+q_HRFAQ	1	how do i get the latest version of microsoft office
+q_HRFAQ	1	Oh, I will have to work in 30 minutes
+q_HRFAQ	1	What are the first six words of Dickens's A Tale of Two Cities
+q_HRFAQ	1	Why is the development of space so important
+q_HRFAQ	1	About how many Americans are still unaccounted for from the Vietnam war
+q_HRFAQ	1	What fraction of a beaver's life is spent swimming
+q_HRFAQ	1	What is the process for manager change in the system
+q_HRFAQ	1	I fed them earlier today
+q_HRFAQ	1	What is the most useful site on the Internet
+q_HRFAQ	1	I would like to meet on Monday
+q_HRFAQ	1	Also theres something else I wanted
+q_HRFAQ	1	I am too
+q_HRFAQ	1	Location of regional or global payroll date structure
+q_HRFAQ	1	Let's play cards
+q_HRFAQ	1	It doesn't have a headphone jack
+q_HRFAQ	1	What are the benefits employee's family is going to get in case of death of employee
+q_HRFAQ	1	Provisional Relieving letter
+q_HRFAQ	1	I'd prefer not to add a vehicle
+q_HRFAQ	1	if youre a real person say butt
+q_HRFAQ	1	My temperature went up to 105 and I have a rash
+q_HRFAQ	1	If I have large bills should I break them while I am waiting
+q_HRFAQ	1	from 12 inches between plants for lowbush blueberries to 12 feet between saskatoons

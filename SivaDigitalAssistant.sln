@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SivaDigitalAssistant", "SivaDigitalAssistant\SivaDigitalAssistant.csproj", "{5C24A628-65EF-4F97-8028-FFAF46BCCA32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SivaDigitalAssistant.Tests", "SivaDigitalAssistant.Tests\SivaDigitalAssistant.Tests.csproj", "{0F546CFC-717D-4C84-A909-FAEFD148F150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C24A628-65EF-4F97-8028-FFAF46BCCA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C24A628-65EF-4F97-8028-FFAF46BCCA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C24A628-65EF-4F97-8028-FFAF46BCCA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C24A628-65EF-4F97-8028-FFAF46BCCA32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F546CFC-717D-4C84-A909-FAEFD148F150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F546CFC-717D-4C84-A909-FAEFD148F150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F546CFC-717D-4C84-A909-FAEFD148F150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F546CFC-717D-4C84-A909-FAEFD148F150}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49397E4E-892A-4141-AEA5-7DF6054235E8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+AZ CLI passes minimum version. Current version is 2.3.1
+LUIS app :6b9fa4a4-0336-48e3-b1ee-e85f16e7e27c already added to SivaDigitalAssistanten-us_Dispatch.dispatch
+QnA kb id:da58d845-d580-4a80-8878-ac40b448d1d2, name:HRFaq already added to SivaDigitalAssistanten-us_Dispatch.dispatch
+Exporting services for dispatch...
+Exporting SivaDigitalAssistanten-us_General LUIS application...
+Exported LUIS app JSON is at C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant\Deployment\Resources\Dispatch\en-us\data\_L_SivaDigitalAssistanten-us_General.json
+Exporting Faq QnA kb...
+
+ERROR
+One or more errors occurred. (The remote server returned an error: (400) Bad Request.)
+
+Request url: https://westus.api.cognitive.microsoft.com/qnamaker/v4.0/knowledgebases/f2739afa-2500-4c53-a221-3e2b03d4fe14/Test/qna?getFlattened=true
+Response: {
+  "error": {
+    "code": "KbNotFound",
+    "message": "Knowledge base not found.",
+    "details": [
+      {
+        "code": "KbNotFound",
+        "message": "4a695dfac0d64bc49ff63bc626b5fbed"
+      }
+    ]
+  }
+}
+------

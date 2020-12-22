@@ -1,0 +1,47 @@
+{
+  "defaultLocale": "en-us",
+  "cognitiveModels": {
+    "en-us": {
+      "dispatchModel": {
+        "appid": "d25b406c-f8fb-41b4-be9b-8ebf29378fef",
+        "name": "SivaDigitalAssistanten-us_Dispatch",
+        "version": "Dispatch",
+        "authoringRegion": "westus",
+        "subscriptionkey": "59e611163156409ca6e784ce398210d2",
+        "authoringkey": "eda4f2366636468cad1de0e91029022a",
+        "region": "centralus",
+        "type": "dispatch"
+      },
+      "languageModels": [
+        {
+          "appid": "6b9fa4a4-0336-48e3-b1ee-e85f16e7e27c",
+          "name": "SivaDigitalAssistanten-us_General",
+          "version": "0.1",
+          "region": "centralus",
+          "subscriptionkey": "59e611163156409ca6e784ce398210d2",
+          "endpoint": "https://sivadigitalassistant-luisauthoring-wlry3ap.cognitiveservices.azure.com/",
+          "authoringkey": "eda4f2366636468cad1de0e91029022a",
+          "id": "General"
+        }
+      ],
+      "knowledgebases": [
+        {
+          "id": "Chitchat",
+          "subscriptionKey": "71ed7782e741471884452e6187336c52",
+          "kbId": "14019735-d844-48e5-999f-2161e51c714a",
+          "endpointKey": "cc95b54d-c00a-492e-b0b1-bb41490b959b",
+          "hostname": "https://sivadigitalassistant-qnahost-wlry3ap.azurewebsites.net",
+          "name": "Chitchat"
+        },
+        {
+          "id": "Faq",
+          "subscriptionKey": "71ed7782e741471884452e6187336c52",
+          "kbId": "f2739afa-2500-4c53-a221-3e2b03d4fe14",
+          "endpointKey": "cc95b54d-c00a-492e-b0b1-bb41490b959b",
+          "hostname": "https://sivadigitalassistant-qnahost-wlry3ap.azurewebsites.net",
+          "name": "Faq"
+        }
+      ]
+    }
+  }
+}

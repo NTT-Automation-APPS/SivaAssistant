@@ -1,0 +1,470 @@
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\.filenesting.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\cognitivemodels.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Connected Services\Application Insights\ConnectedService.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\parameters.template.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\template.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\AllResponses.de-de.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\AllResponses.es-es.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\AllResponses.fr-fr.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\AllResponses.it-it.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\AllResponses.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\AllResponses.zh-cn.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\MainResponses.de-de.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\MainResponses.es-es.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\MainResponses.fr-fr.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\MainResponses.it-it.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\MainResponses.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\MainResponses.zh-cn.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\OnboardingResponses.de-de.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\OnboardingResponses.es-es.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\OnboardingResponses.fr-fr.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\OnboardingResponses.it-it.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\OnboardingResponses.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\OnboardingResponses.zh-cn.lg
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.exe
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\TestData\QnAMaker_NoAnswer.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Resources\chitchat_default.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Resources\chitchat_greeting.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Resources\faq_default.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Resources\faq_overview.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.deps.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.runtimeconfig.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.runtimeconfig.dev.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.pdb
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\AdaptiveCards.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\AdaptiveExpressions.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Antlr4.Runtime.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.ContentModerator.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.AI.Luis.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.AI.QnA.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.ApplicationInsights.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Azure.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Declarative.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.ApplicationInsights.Core.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.LanguageGeneration.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.TemplateManager.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Solutions.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\NCrontab.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\NuGet.Common.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\NuGet.Configuration.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\NuGet.Packaging.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\NuGet.Versioning.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\RichardSzalay.MockHttp.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.Bot.Solutions.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.Bot.Solutions.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.Bot.Solutions.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.Bot.Solutions.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh\Microsoft.Bot.Solutions.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.pdb
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.csprojAssemblyReference.cache
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.Utterances.GeneralUtterances.resources
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.csproj.GenerateResource.cache
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.AssemblyInfoInputs.cache
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.AssemblyInfo.cs
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.csproj.CoreCompileInputs.cache
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.csproj.CopyComplete
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.dll
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.pdb
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.genruntimeconfig.cache
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\Dispatch\en-us\data\SivaDigitalAssistanten-us_Dispatch.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\Dispatch\en-us\data\_L_SivaDigitalAssistanten-us_General.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\Dispatch\en-us\SivaDigitalAssistanten-us_Dispatch.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\LU\en-us\General.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\QnA\en-us\alterations_Chitchat.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\QnA\en-us\alterations_Faq.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\QnA\en-us\Chitchat.json
+C:\Sivabalan\0.DeleteIt\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\QnA\en-us\HRFaq.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\.filenesting.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Connected Services\Application Insights\ConnectedService.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\Dispatch\en-us\SivaDigitalAssistanten-us_Dispatch.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\parameters.template.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\QnA\en-us\alterations_Chitchat.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\template.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\AllResponses.de-de.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\AllResponses.es-es.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\AllResponses.fr-fr.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\AllResponses.it-it.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\AllResponses.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\AllResponses.zh-cn.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\MainResponses.de-de.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\MainResponses.es-es.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\MainResponses.fr-fr.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\MainResponses.it-it.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\MainResponses.zh-cn.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\OnboardingResponses.de-de.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\OnboardingResponses.es-es.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\OnboardingResponses.fr-fr.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\OnboardingResponses.it-it.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\OnboardingResponses.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\OnboardingResponses.zh-cn.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\TestData\QnAMaker_NoAnswer.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\cognitivemodels.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\Dispatch\en-us\data\_L_SivaDigitalAssistanten-us_General.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\LU\en-us\General.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\QnA\en-us\Chitchat.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\QnA\en-us\HRFaq.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Responses\MainResponses.lg
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.exe
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Resources\chitchat_default.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Resources\chitchat_greeting.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Resources\faq_default.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Resources\faq_overview.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.deps.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.runtimeconfig.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.runtimeconfig.dev.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.pdb
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\AdaptiveCards.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\AdaptiveExpressions.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Antlr4.Runtime.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.ContentModerator.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.AI.Luis.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.AI.QnA.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.ApplicationInsights.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Azure.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Declarative.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.ApplicationInsights.Core.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.LanguageGeneration.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.TemplateManager.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Solutions.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\NCrontab.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\NuGet.Common.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\NuGet.Configuration.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\NuGet.Packaging.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\NuGet.Versioning.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\RichardSzalay.MockHttp.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.Bot.Solutions.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.Bot.Solutions.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.Bot.Solutions.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.Bot.Solutions.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh\Microsoft.Bot.Solutions.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\SivaDigitalAssistant.pdb
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.csprojAssemblyReference.cache
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.Utterances.GeneralUtterances.resources
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.csproj.GenerateResource.cache
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.AssemblyInfoInputs.cache
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.AssemblyInfo.cs
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.csproj.CopyComplete
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.dll
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.pdb
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\obj\Debug\netcoreapp3.1\SivaDigitalAssistant.Tests.genruntimeconfig.cache
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\Dispatch\data\Dispatch_Test_12-22.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\Dispatch\data\_experiments\model_001\train_luis_model_augmented.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\Dispatch\data\_Q_q_HRFAQ.json
+C:\Users\Matthew Truby\source\repos\SivaDigitalAssistant\SivaDigitalAssistant\SivaDigitalAssistant.Tests\bin\Debug\netcoreapp3.1\Deployment\Resources\Dispatch\Dispatch_Test_12-22.json

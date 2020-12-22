@@ -1,0 +1,50 @@
+{
+  "authoringRegion": "westus",
+  "culture": "en-us",
+  "hierarchical": true,
+  "useAllTrainingData": true,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_General",
+      "appId": "6b9fa4a4-0336-48e3-b1ee-e85f16e7e27c",
+      "authoringKey": "eda4f2366636468cad1de0e91029022a",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "SivaDigitalAssistanten-us_General",
+      "id": "1"
+    },
+    {
+      "intentName": "q_Faq",
+      "includePrompts": true,
+      "kbId": "f2739afa-2500-4c53-a221-3e2b03d4fe14",
+      "subscriptionKey": "71ed7782e741471884452e6187336c52",
+      "type": "qna",
+      "name": "Faq",
+      "id": "2"
+    },
+    {
+      "intentName": "q_HRFaq",
+      "includePrompts": true,
+      "kbId": "4a076fa2-cebe-430c-8f0c-c23a1f4e7bad",
+      "subscriptionKey": "0823e30d6a0f4d24b7164587c1d4b109",
+      "type": "qna",
+      "name": "HRFaq",
+      "id": "3"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2",
+    "3"
+  ],
+  "appId": "d25b406c-f8fb-41b4-be9b-8ebf29378fef",
+  "authoringKey": "eda4f2366636468cad1de0e91029022a",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "SivaDigitalAssistanten-us_Dispatch"
+}

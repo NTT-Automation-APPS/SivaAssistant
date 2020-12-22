@@ -1,0 +1,18 @@
+{
+    "name": "SivaAssistant",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "fe5bd5b3-c73e-401f-9a08-5a2f2d114f7b",
+            "appPassword": "PasswordAzure2020",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "67aadd60-3e57-11eb-a643-e1284f4c19f0",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Sivabalan\\0.DeleteIt\\SivaDigitalAssistant\\SivaAssistant.bot"
+}

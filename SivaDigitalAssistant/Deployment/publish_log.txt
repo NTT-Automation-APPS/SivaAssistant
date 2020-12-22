@@ -1,0 +1,28 @@
+Microsoft (R) Build Engine version 16.8.0+126527ff1 for .NET
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+{
+  "active": true,
+  "author": "N/A",
+  "author_email": "N/A",
+  "complete": true,
+  "deployer": "ZipDeploy",
+  "end_time": "2020-12-14T21:56:47.1554265Z",
+  "id": "3f91d08730a64faca19aeead562df99e",
+  "is_readonly": true,
+  "is_temp": false,
+  "last_success_end_time": "2020-12-14T21:56:47.1554265Z",
+  "log_url": "https://sivadigitalassistant-wlry3ap.scm.azurewebsites.net/api/deployments/latest/log",
+  "message": "Created via a push deployment",
+  "progress": "",
+  "provisioningState": null,
+  "received_time": "2020-12-14T21:56:39.4043405Z",
+  "site_name": "SivaDigitalAssistant-wlry3ap",
+  "start_time": "2020-12-14T21:56:39.8887332Z",
+  "status": 4,
+  "status_text": "",
+  "url": "https://sivadigitalassistant-wlry3ap.scm.azurewebsites.net/api/deployments/latest"
+}
+Getting scm site credentials for zip deployment
+Starting zip deployment. This operation can take a while to complete ...
+Deployment endpoint responded with status code 202
